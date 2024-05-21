@@ -1,0 +1,1001 @@
+[[0, 1], [1, 4], [21, 3], [23, 8]] :	14gxqgqsqqbxfpxnbccjc33eight : 18 : 
+[[0, 8], [5, 2], [6, 7]] :	eight2sevenkl : 87 : 
+[[6, 5], [7, 1], [10, 2], [13, 8], [23, 8]] :	mrjstg5onetwoeightgcczx8vgrgl : 58 : 
+[[0, 9], [1, 2], [2, 4], [3, 6]] :	9246 : 96 : 
+[[0, 9], [4, 2], [7, 2], [33, 9], [34, 8]] :	ninetwo2crrqk2grsctqxqbcrmrdsqbrz9eight : 98 : 
+[[0, 5], [4, 6], [9, 1]] :	five6dlhx1 : 51 : 
+[[0, 2], [1, 9], [12, 4]] :	29qhsdqqtgrk4 : 24 : 
+[[13, 6], [19, 5]] :	mjgtrjnlttxjlsixsix5 : 65 : 
+[[11, 2], [12, 9], [23, 3]] :	bgnnvfsnbpx29vsjrlmgmsqthreeqxvclkhlv : 23 : 
+[[0, 7], [5, 9], [9, 3], [27, 1]] :	sevennine3gsmxncqlqvfktxrtcone : 71 : 
+[[0, 2], [11, 8], [16, 1], [19, 2]] :	2mkzrqlmhsveight1sjtwo2 : 22 : 
+[[13, 8], [14, 6]] :	rrrbvnrvnqfdh86 : 86 : 
+[[0, 9], [1, 4], [2, 3], [14, 8], [19, 4]] :	94threeqrhkcpkeightfour : 94 : 
+[[0, 4], [4, 8], [5, 3]] :	four83 : 43 : 
+[[0, 9], [1, 9], [11, 3], [16, 1], [21, 8], [26, 6]] :	9ninehbsgkcthree1nineeightsix9 : 96 : 
+[[0, 5], [1, 7], [8, 6], [9, 8]] :	57zfcgpf68 : 58 : 
+[[2, 1], [5, 4], [13, 8], [21, 3]] :	hbonefourfour8lsnfgvf3 : 13 : 
+[[0, 7], [5, 7], [6, 9]] :	seven79rqtqvjddc : 79 : 
+[[0, 2], [3, 6], [4, 6], [7, 7], [8, 8]] :	two6six7eightqnmnppctxjrxbdxbdmbfkmv : 28 : 
+[[0, 9], [11, 5], [25, 8], [33, 4]] :	9rdvkbxclk9fivecrxmtpzsxn8cmrzttlfour : 94 : 
+[[5, 3], [10, 2]] :	nztfnthree2 : 32 : 
+[[19, 2], [20, 6], [21, 1]] :	nxhjcqzlcxgdkmcfggc261gbt : 21 : 
+[[28, 7]] :	xqfcdfdsrlhdktdjshllqgqshzmf7hpcdgdfcvntczdxxfqbvz : 77 : 
+[[3, 4], [4, 3]] :	sbf43g : 43 : 
+[[3, 9], [4, 2], [6, 3], [11, 7]] :	vsm922three7 : 97 : 
+[[1, 3], [6, 1]] :	nthree1 : 31 : 
+[[0, 3], [1, 8], [12, 1], [23, 9]] :	3eightjvtqcb1lkgkzhbgvl9eightfn : 39 : 
+[[4, 2], [7, 5], [14, 1], [15, 7], [20, 4], [24, 7]] :	tfvv2zz5xmckbc1sevenfour7 : 27 : 
+[[0, 5], [4, 6], [7, 6], [8, 2], [11, 7]] :	fivesix6two7cptgpfpd : 57 : 
+[[0, 3], [10, 8]] :	3skfjrzbjpeightdkkkjq : 38 : 
+[[0, 6], [1, 8], [2, 1], [5, 4], [15, 5], [19, 6]] :	68onefourxmznzlfivesixfqmfchn : 66 : 
+[[0, 1], [1, 2], [14, 9], [18, 2]] :	12rzcscnkxsbc2ninetwo : 12 : 
+[[15, 3], [17, 5]] :	jrmmvsdjvftgnrz33five : 35 : 
+[[7, 3], [8, 6], [9, 9]] :	bhdxxmb36ninedmrlrstrmrbvz : 39 : 
+[[0, 1], [1, 7], [6, 3], [17, 3], [18, 6]] :	1seventhreenbsth136kzrgdvvjp : 16 : 
+[[0, 7], [4, 6]] :	7nrc6xpl : 76 : 
+[[0, 4], [4, 7], [9, 4], [10, 9], [14, 1]] :	fourseven4nineone : 41 : 
+[[0, 8], [12, 9], [13, 3], [18, 8]] :	8zxncrhffcmq9threeeight : 88 : 
+[[0, 5], [1, 7], [6, 8], [11, 4], [12, 3], [17, 9]] :	5seveneight4three9 : 59 : 
+[[0, 8], [7, 1], [9, 8]] :	8ghsxbzoneightg : 88 : 
+[[1, 2], [3, 1], [6, 6], [24, 5]] :	qtwonesixtwosixvjmnhqbbx5 : 25 : 
+[[2, 1], [21, 6], [24, 5], [38, 2], [41, 7]] :	sp1psqkctzqnldbdhqsmgsixfivepjnnvsxdldtwoseven : 17 : 
+[[0, 9], [1, 9], [5, 3], [22, 4]] :	9ninethreefqqlztnrtgcbfourxdgltgft : 94 : 
+[[1, 6], [4, 1], [5, 4], [6, 7]] :	zsix14sevenhqkgfh : 67 : 
+[[2, 3]] :	nt3 : 33 : 
+[[5, 2], [8, 9]] :	dhdsktwo9 : 29 : 
+[[0, 8]] :	8cmjzrsmr : 88 : 
+[[0, 4], [6, 8]] :	4bdspt8 : 48 : 
+[[7, 7], [8, 6]] :	qvzgxjp7six : 76 : 
+[[0, 9], [4, 3], [23, 5], [27, 2], [30, 1]] :	ninethreexqvzzqhjsthreefivetwo1 : 91 : 
+[[6, 5], [12, 8]] :	kzhsgr5tpzhxeightpqkfj : 58 : 
+[[0, 2], [11, 1], [22, 7], [29, 3], [30, 8]] :	twozclthmcx1phkcvgrlbj7fhmcph3eight : 28 : 
+[[0, 9], [10, 2], [11, 2], [14, 8]] :	9lkctcvgxr2two8rxgkdbx : 98 : 
+[[7, 7], [13, 9], [20, 7]] :	khfgllh7kchfq9xbnrqrseven : 77 : 
+[[0, 9], [8, 4], [12, 8], [13, 1], [14, 7]] :	ninekqmvfour81seven : 97 : 
+[[5, 6], [8, 6], [9, 5], [10, 8]] :	xsfpksix65eight : 68 : 
+[[0, 8], [6, 2], [7, 4], [8, 1]] :	eightf24oneone : 81 : 
+[[0, 2], [1, 4], [2, 5], [3, 8], [4, 1], [13, 1], [16, 9]] :	24581snlbjpfronenine : 29 : 
+[[0, 9], [4, 3], [5, 8], [30, 4], [31, 9]] :	nine3eightjqshqxscvzvskspcmdzd49 : 99 : 
+[[0, 6], [5, 5], [6, 1]] :	6mfqf5one : 61 : 
+[[10, 1], [11, 6], [12, 7]] :	zrzzlchrfl167n1 : 17 : 
+[[8, 9]] :	nsxqfspq9 : 99 : 
+[[0, 7], [25, 8], [30, 6], [33, 1], [34, 3]] :	7mggsvthrnckcsctjsxlmxghqeightsix13 : 73 : 
+[[13, 4]] :	sbpkxkmjkxcmg4 : 44 : 
+[[0, 8], [5, 1], [8, 3], [20, 9], [24, 2]] :	eightonethreevqkjkxnnine2 : 82 : 
+[[4, 2], [12, 1], [22, 6]] :	kntj2vkcnrkjonefnqddll6 : 26 : 
+[[26, 3], [37, 6], [38, 2]] :	zlbnprltbkgmzpvtqmvzhpvhrb3ntrzhkrbvd6twoltkpsccvbk : 32 : 
+[[0, 6], [1, 7], [6, 5], [7, 1], [8, 9], [10, 5], [14, 6]] :	6seven5196fivesix : 66 : 
+[[2, 8]] :	vj8 : 88 : 
+[[0, 7], [5, 5], [6, 4], [10, 3], [15, 8]] :	seven5fourthreeeight5 : 78 : 
+[[10, 3]] :	lqzkbvdtxs3hbqr : 33 : 
+[[0, 7], [9, 1], [12, 6], [19, 3]] :	7gmfzfcnrone66nqvkmthreekdhfkrhone : 73 : 
+[[9, 1], [12, 2], [13, 5], [21, 1]] :	nsxftsvssone2fivefive1rcvlzltfdzcgsh : 11 : 
+[[0, 8], [1, 5], [5, 1], [6, 8]] :	8five1eight : 88 : 
+[[0, 7], [15, 2], [18, 6], [26, 8], [31, 4]] :	7ljfbvnrbghgkhstwo6vmnhxdteightfour : 74 : 
+[[5, 4]] :	hdnxc4zjqrbr : 44 : 
+[[0, 5], [10, 1], [14, 1], [15, 6]] :	5ghrjjbfshonek1sixrvnnkhpd5 : 56 : 
+[[0, 3], [17, 8], [18, 5], [19, 2]] :	threetjxxlvqfvdcj852dkxlthree : 32 : 
+[[17, 8]] :	xbpqlbrgcbkzvbjdt8 : 88 : 
+[[3, 8], [7, 2], [10, 7], [22, 6]] :	cbzeightwo7npgjjxfzrvz66 : 86 : 
+[[16, 2]] :	zktrxkjpchjxzmpq2 : 22 : 
+[[0, 5], [4, 1], [10, 6]] :	five1lbdhrsix : 56 : 
+[[0, 5], [18, 8], [19, 6]] :	5qldpfkqjkfjdzpfhf86 : 56 : 
+[[13, 2]] :	vnbrnsskxphxv22 : 22 : 
+[[0, 4], [11, 9], [15, 3]] :	4chnggbxmssnine3 : 43 : 
+[[0, 4], [2, 9], [3, 1]] :	4k9one : 41 : 
+[[0, 2], [1, 2], [3, 1]] :	2twoneh : 21 : 
+[[0, 6], [8, 5], [9, 3]] :	6kgbvpsl5threecxf : 63 : 
+[[0, 5], [1, 6], [2, 2], [3, 6]] :	562six6 : 56 : 
+[[17, 3], [27, 2]] :	tsdvbzxpkqbkrpvht33hxhvmjnltwo3 : 32 : 
+[[0, 7], [1, 4], [5, 1]] :	7fourone : 71 : 
+[[0, 9], [4, 6], [7, 2], [14, 1], [15, 5]] :	ninesix2sixsix1fivenine : 95 : 
+[[0, 4], [14, 8]] :	fourbqvbqftvzz88sjszkgxhrtlshkdjq : 48 : 
+[[5, 7], [16, 3], [26, 3]] :	sfsrfsevenpgpmffthreezzsfb3 : 73 : 
+[[0, 8], [1, 5], [10, 4], [20, 1], [21, 5]] :	8fivekvmzz4rlrscnxmx15 : 85 : 
+[[3, 8], [7, 2], [20, 3], [28, 7]] :	jvteightwozhqsnvffxg3rsjmszc7fssnbhrtwo : 87 : 
+[[0, 5], [4, 9], [19, 3], [20, 5]] :	fivenineqsvpgbkdxlp355nine : 55 : 
+[[0, 9], [3, 5]] :	9jbfive : 95 : 
+[[11, 6], [12, 5]] :	zsxzdcvsjln65 : 65 : 
+[[4, 5], [5, 2], [6, 2], [9, 9], [13, 8], [14, 3]] :	nvcc52twonine83fq : 53 : 
+[[9, 2]] :	gcnpqqfhq2 : 22 : 
+[[9, 4], [10, 4], [34, 2], [37, 6]] :	jspfdkpxl4fourbstlcvdhxhjdgxvpzbvltwo6 : 46 : 
+[[0, 8], [1, 6]] :	8sixsix : 86 : 
+[[0, 4], [4, 2], [17, 7]] :	fourtwohsqhmnjmph7 : 47 : 
+[[0, 1], [3, 3], [4, 8], [9, 2]] :	one3eighttwo : 12 : 
+[[13, 1], [25, 7], [30, 8]] :	tshglpdmjbsgsoneplbjqcsrxseven8 : 18 : 
+[[0, 4], [1, 2], [6, 9], [7, 6], [13, 3]] :	42sgr296mpkdz39 : 43 : 
+[[2, 7], [7, 1], [10, 2], [11, 5], [12, 2]] :	bxsevenone25two : 72 : 
+[[0, 2], [3, 8], [4, 5], [8, 4]] :	two8fivefour : 24 : 
+[[0, 3], [5, 4], [15, 1], [18, 9]] :	three4cgjttdmfqonenine : 39 : 
+[[0, 8], [5, 5], [6, 6], [21, 7], [22, 9]] :	eight5sixeightmxzzqmt795 : 89 : 
+[[0, 3], [14, 9], [18, 9], [19, 5]] :	threebtnlmrrqgnine9fivezdzgldkxnbvhsvzqnine : 35 : 
+[[0, 1], [3, 1], [4, 4], [12, 9]] :	one14tqvqgn1ninevkzhrqfqdjprzxb : 19 : 
+[[3, 9], [7, 5], [8, 2], [13, 8]] :	cqqnine52cjmteightgbb : 98 : 
+[[10, 9], [13, 8]] :	vhhkrrbhlp9dseight : 98 : 
+[[7, 1]] :	fjzfmqv1bsvqbtpvvzcvqvxnlptk : 11 : 
+[[0, 5], [4, 6], [5, 3], [10, 1], [22, 9]] :	five6three1zvgznsrvnpmnine : 59 : 
+[[6, 8], [11, 1], [12, 8], [29, 2], [32, 3]] :	cfkxfmeight18hgkclhmcfcfsjzkztwothree : 83 : 
+[[0, 5], [4, 7], [9, 1], [26, 4]] :	fivesevenonejmmrjvhznffive4jbrvdhlcpj : 54 : 
+[[3, 1], [5, 8], [10, 4], [11, 7], [18, 8]] :	gbboneight47xfmqzt8 : 18 : 
+[[0, 6], [15, 4], [16, 7], [21, 9], [25, 1]] :	sixmjnfmjtsszvc4sevennineonexc : 61 : 
+[[10, 3], [12, 4]] :	kfsnggdldp33four : 34 : 
+[[0, 5], [1, 6], [4, 2]] :	56hj2lqncdfghdbgdkzpkr : 52 : 
+[[0, 6], [1, 3], [2, 5], [6, 5], [7, 1], [8, 9]] :	63five519bztrxx5 : 69 : 
+[[0, 3], [1, 8], [7, 6], [10, 9]] :	3eight3six9xvdfhrcmsm : 39 : 
+[[8, 5], [9, 9], [13, 4]] :	drcjrlst5ninefourxcm : 54 : 
+[[0, 4], [1, 5], [5, 3], [12, 8], [26, 4]] :	4five3dmjbnbeightvxtbbvxdpfourjvj3 : 44 : 
+[[4, 9], [8, 8], [9, 5], [11, 4], [15, 1], [16, 7], [17, 2], [20, 8]] :	lnmqnine855four17twoeightwolx : 98 : 
+[[9, 9]] :	lnkffrtmv9t : 99 : 
+[[19, 4], [29, 7], [30, 3]] :	mmhrvrpbvrcmpczvknkfourcqktxx73qbgd : 43 : 
+[[25, 8], [34, 2]] :	khbrlcvdpxdkljvkhnfrvtpmbeightgzms2 : 82 : 
+[[4, 9], [15, 9], [19, 7], [20, 6]] :	shbr9fzbvzhhqmnnine76 : 96 : 
+[[1, 9], [2, 3]] :	x93 : 93 : 
+[[0, 3], [1, 1]] :	3onec : 31 : 
+[[1, 5], [8, 1], [9, 9], [10, 5]] :	v5xskfrg19five : 55 : 
+[[8, 4], [12, 7], [13, 5], [17, 8], [26, 4], [27, 9], [31, 1]] :	ncmtbgdkfour7fiveeightfour4nine1 : 41 : 
+[[0, 3], [7, 8]] :	3dtdjs38ggfljpdvv : 38 : 
+[[0, 4], [4, 3], [20, 9], [21, 6], [22, 8], [27, 1]] :	fourthreevfpmztnzzcf96eight1 : 41 : 
+[[0, 1], [45, 6]] :	onesjmdmmmcgnvhdnczfzznrvrggkgpcpcggqpkkkcfbq6qpsv : 16 : 
+[[0, 5], [5, 6], [8, 2], [11, 3]] :	5nvhksixtwothree : 53 : 
+[[1, 4], [17, 2], [21, 6]] :	d4qhmsljqhmcqlxln2dbd64 : 46 : 
+[[6, 7], [11, 9]] :	zrshqtseven9zkpmzksqcsptfkkn : 79 : 
+[[0, 9]] :	9pk : 99 : 
+[[0, 5], [1, 1], [14, 4], [19, 3]] :	51jnqbzgnlhcglfour5three : 53 : 
+[[0, 8], [7, 3], [9, 1], [10, 7]] :	8snxnxv3817 : 87 : 
+[[4, 4]] :	tsvd4 : 44 : 
+[[16, 6], [19, 4], [23, 3], [28, 9], [32, 8], [37, 1], [40, 4]] :	lzfxkxrcktjlvzbnsixfourthreenineeightone4 : 64 : 
+[[4, 9], [5, 3], [6, 2], [7, 6], [8, 3], [13, 4], [17, 1], [20, 7]] :	lxdz9326threefouroneseven : 97 : 
+[[0, 6], [10, 5]] :	6zkgmhktdnfive : 65 : 
+[[1, 1], [16, 4], [17, 5], [31, 9]] :	zonekfbbcqcsdbkc4fivexpnhssdgbbnine : 19 : 
+[[0, 8], [9, 7], [10, 7]] :	8zcdxcbhm7seven : 87 : 
+[[0, 1], [8, 9], [12, 3], [13, 9], [14, 8], [27, 3], [32, 7]] :	1fldmtvgnine39eightdrmrtzkcthree7 : 17 : 
+[[0, 8], [1, 6], [19, 4]] :	8sixxlztjhjkxtppmrtfour : 84 : 
+[[0, 3], [9, 6], [10, 8], [11, 2], [14, 5], [23, 2]] :	threekvjx68twofiveqtzfg2fbhnhrdztv : 32 : 
+[[0, 6], [12, 2], [15, 4], [23, 3]] :	6pgvzdbgjnlctwofourxzpc3xzdc : 63 : 
+[[0, 6], [23, 7], [29, 4]] :	sixdxpnthgkfmddvqhrvsixsevenx4q : 64 : 
+[[2, 2], [3, 9], [4, 1], [9, 9]] :	ch29onepqnine : 29 : 
+[[0, 6], [6, 6], [7, 8]] :	sixlnh68 : 68 : 
+[[0, 1], [1, 1], [4, 5], [9, 6], [10, 9], [14, 7]] :	1one5rqxz6nine7 : 17 : 
+[[1, 1], [4, 9]] :	cone9 : 19 : 
+[[0, 4], [4, 7], [9, 3], [21, 9], [34, 6]] :	fourseven3kddtmbjhnkz9kxhzspvtdngvsix : 46 : 
+[[0, 3], [1, 6], [10, 1]] :	3sixnrjcxv1 : 31 : 
+[[0, 1], [7, 2], [8, 9]] :	onemdts29zrbh : 19 : 
+[[1, 8], [5, 2], [8, 2], [14, 8], [15, 1], [16, 6]] :	beightwo2eight816nnzfhptjhfqvqq : 86 : 
+[[6, 4], [11, 3]] :	lfmxzp44cqkthree : 43 : 
+[[2, 4], [4, 7], [11, 2], [14, 6]] :	gl4qsevengltwosix : 46 : 
+[[0, 2], [1, 8], [6, 3], [13, 7]] :	2eight3qqkksrsevenxkndsxt : 27 : 
+[[0, 8], [13, 9]] :	eightzxrflknj9jpbmt : 89 : 
+[[10, 9], [24, 2], [34, 1], [35, 6], [36, 5]] :	knqjgjjjmkninezzfnbcdmqctwozskxsgd1655 : 95 : 
+[[9, 4], [13, 5], [18, 4], [19, 9]] :	qpfdjsmsqfourfiver49f : 49 : 
+[[1, 6], [4, 1]] :	vsix1xpglmcbdp : 61 : 
+[[10, 7], [11, 1], [14, 6], [16, 4]] :	vgqjvzzcct7one674 : 74 : 
+[[0, 4], [9, 5], [10, 8], [11, 5], [15, 6], [18, 2]] :	4csdttrsd58fivesixtwofive : 42 : 
+[[9, 8], [20, 3], [25, 9]] :	bslfsjhrl8cszqrppqskthreenine : 89 : 
+[[0, 9], [2, 7], [3, 4], [7, 6], [10, 8], [23, 1]] :	997foursixeighttftrnktp1 : 91 : 
+[[0, 3], [8, 6], [26, 2]] :	3ndqmpzs6jkpcvjdltgbfgvlcn2 : 32 : 
+[[8, 5], [12, 6], [15, 8], [16, 8], [21, 9], [22, 1]] :	lsxprcgkfivesix8eight9onenbdxqbl : 51 : 
+[[0, 7], [5, 8], [10, 3]] :	seveneight3eight : 73 : 
+[[0, 8], [5, 7], [6, 7]] :	eight7sevencvvshpgfg : 87 : 
+[[0, 8], [3, 7], [4, 2]] :	8zg7two : 82 : 
+[[0, 5], [1, 6], [7, 2]] :	5sixsixtwo : 52 : 
+[[0, 6], [3, 7], [4, 2]] :	six7two : 62 : 
+[[5, 6], [14, 2], [15, 2]] :	jjcxmsixhbtvfx2twoxs : 62 : 
+[[0, 9]] :	9xtg : 99 : 
+[[0, 3], [1, 1]] :	3onelvrpcvxk : 31 : 
+[[0, 9], [21, 3], [36, 4], [37, 1]] :	ninetqzpbhxsspcfjlvsg3qlnbbqfxdqnine4one3 : 91 : 
+[[6, 4], [10, 4], [11, 9]] :	xplhfgfour49 : 49 : 
+[[17, 6], [49, 3]] :	jdrzrkkzdkgvhsvbm6bqfgpjbvhxlhtxhhpmmtmvqbgnmzpkm3 : 63 : 
+[[8, 1], [12, 2], [16, 5]] :	hrjqkmvv1bzm2krs5 : 15 : 
+[[3, 2], [5, 1], [13, 9], [14, 6], [15, 7], [20, 5]] :	vfztwonepdlcn96seven5 : 25 : 
+[[0, 1], [25, 1], [40, 5]] :	1mpkqmccqqdsmhdgjjgrrtsbconehpfgfnjtxtqv5 : 15 : 
+[[0, 1], [3, 9], [6, 8], [7, 3], [12, 8], [27, 3]] :	one9qn8threeeightnmqvfjkklg3 : 13 : 
+[[0, 5], [6, 4], [7, 9]] :	5kgkst4ninegnqnjgmtdpfzspmkk : 59 : 
+[[11, 5], [12, 3], [13, 8], [18, 7]] :	pmggrbfxghr53eight7mjlzgzv : 57 : 
+[[0, 4], [1, 4], [5, 1]] :	4fourone : 41 : 
+[[9, 7], [10, 5], [23, 8], [28, 6]] :	lbjfvxjzd7fivevllrtvfkmeight6 : 76 : 
+[[3, 9]] :	xtl9 : 99 : 
+[[0, 9], [5, 1], [14, 9]] :	ninevonevljrvx9 : 99 : 
+[[0, 7], [5, 6], [8, 7], [14, 8], [19, 1]] :	sevensix7sixhbeightone : 71 : 
+[[12, 1], [15, 9], [19, 9], [30, 6]] :	npzmcdtdqfpvonenine9rsktdrrnz9six : 16 : 
+[[0, 4], [1, 6], [4, 5]] :	4six55 : 45 : 
+[[0, 8], [5, 6], [6, 4], [22, 2]] :	eight646gdvfkjqsvnczbxtwo : 82 : 
+[[0, 5], [1, 7], [8, 3]] :	5seven5jthree : 53 : 
+[[1, 4], [12, 7], [17, 3], [22, 2], [28, 1], [29, 8]] :	cfourfhmxqjmseventhree2sgkxm18 : 48 : 
+[[21, 6]] :	mfxnnjjxtjzlljgcnfpvb6cmknzb : 66 : 
+[[0, 4], [1, 7], [2, 9], [3, 6]] :	4796 : 46 : 
+[[8, 2], [14, 9]] :	kzxfnrqktwohmp9cclstwo : 29 : 
+[[6, 1]] :	vgzgmc1zlsch : 11 : 
+[[5, 1], [6, 5], [10, 2], [12, 6]] :	lvpnb1five216mbdxgvfkcg : 16 : 
+[[0, 3], [1, 1], [9, 9], [10, 4]] :	3onezjnmv9fourj : 34 : 
+[[0, 2], [3, 8], [12, 6]] :	two8vmpfmqmq6 : 26 : 
+[[1, 8]] :	p8 : 88 : 
+[[0, 4], [1, 1], [4, 8], [10, 5]] :	4oneeight45 : 45 : 
+[[0, 8], [1, 2], [2, 7], [3, 8], [18, 9]] :	827eightsnvlrskzlbnineeightbtngkb : 89 : 
+[[7, 2]] :	kdfxtjj2 : 22 : 
+[[2, 3], [7, 7], [12, 9], [16, 7]] :	csthreesevennine7seven : 37 : 
+[[10, 8], [11, 4]] :	hqqjrzkkkh84 : 84 : 
+[[0, 6], [3, 4], [4, 2], [5, 4]] :	six42four : 64 : 
+[[0, 9], [4, 2], [5, 5], [6, 9], [7, 5]] :	nine259five : 95 : 
+[[0, 8], [8, 9]] :	8jngjtkdnine : 89 : 
+[[0, 3]] :	3ph : 33 : 
+[[0, 8], [7, 4]] :	8gccpsqfourtxtlbvmvb8n : 84 : 
+[[0, 1], [6, 6], [9, 7], [20, 2], [23, 2], [24, 6]] :	oneonesix7jdkzfxkdvttwo26 : 16 : 
+[[9, 3], [10, 4]] :	xkfsdgkjt34vq : 34 : 
+[[0, 9], [1, 8], [2, 2], [9, 5], [10, 8]] :	98twosjrr5eight : 98 : 
+[[0, 4], [4, 6], [7, 5], [11, 9]] :	foursixfive9 : 49 : 
+[[0, 1], [1, 7], [29, 3], [30, 9]] :	17vmxlvqpqmvnfchhmxmdcpzgrsjl3nine : 19 : 
+[[6, 3], [12, 1], [15, 3], [24, 4], [25, 8]] :	pmzscpthreevone3kdgqldjf48 : 38 : 
+[[3, 1], [5, 8], [29, 7], [30, 3]] :	dzhoneightonevxtzqsqxxpgtgrdl73 : 13 : 
+[[0, 4], [1, 3], [15, 2], [18, 5]] :	4threebbsttfhbdtwofivezsvspjp : 45 : 
+[[16, 2]] :	jlstdnkjgdxszmpv2tgvpbdhdrkdjjvdbscv : 22 : 
+[[0, 4], [21, 7]] :	4mqqxrsfrfhsbxprbxrgqseven : 47 : 
+[[0, 3], [24, 9], [28, 6]] :	3rklddqfnczjfhjmkrgrkslxninesix : 36 : 
+[[0, 9], [9, 3], [20, 7]] :	9jpcvnlvb3lzqzkvlnqsseven : 97 : 
+[[0, 8], [4, 6], [5, 4], [21, 2]] :	8ngm64zxplgcdxzdzgfqmtworprmndddr : 82 : 
+[[0, 5], [14, 3], [24, 8], [34, 1]] :	fivefzhdggmfslthreejmsrq8dxzdzcxsj1 : 51 : 
+[[0, 7], [1, 5], [2, 6], [5, 2], [6, 9], [7, 4], [16, 5]] :	75six294xbzhjxd2five : 75 : 
+[[0, 5], [1, 6], [2, 7], [3, 4]] :	56746 : 54 : 
+[[8, 6], [9, 8], [14, 5], [18, 7]] :	jjxxqclf6eightfive7 : 67 : 
+[[0, 5], [4, 8], [9, 9]] :	fiveeight9eight : 59 : 
+[[7, 2], [8, 2]] :	npdgsll2twoxfzq : 22 : 
+[[0, 6], [2, 5], [6, 9], [17, 3], [22, 9]] :	66fiveninerrbgrshthree9 : 69 : 
+[[0, 9], [4, 1], [5, 2], [6, 4], [12, 2]] :	nine124nkcsltwoqdlvr : 92 : 
+[[0, 8], [5, 4], [15, 3], [21, 8]] :	eight4vlsddsjxqthreep8xd84 : 88 : 
+[[9, 1], [21, 9]] :	mqsbzgsszonexlhljdhdt9kjvdvbmqc : 19 : 
+[[10, 4], [12, 1], [13, 2], [23, 3], [24, 4]] :	shpxspqrck441twoxjhgthz3fournjtxzgbs : 44 : 
+[[0, 2], [1, 3], [12, 9], [16, 9], [17, 2]] :	2threegtqmddnine9two : 22 : 
+[[16, 5], [17, 4], [18, 2]] :	rbdvrngvrjsllkrc542 : 52 : 
+[[1, 6]] :	p6dckscjkhzfqvc : 66 : 
+[[9, 4], [17, 9], [18, 2], [19, 3], [20, 6]] :	qblzhpspf4glsrbxm923six : 46 : 
+[[0, 4], [7, 1], [10, 5], [19, 7], [30, 1], [31, 8], [35, 2]] :	4mfbjznone5svkgvsr47dvtbltlmns1eightwob : 42 : 
+[[0, 5], [1, 6], [7, 1], [8, 2], [11, 5], [18, 8]] :	5sixsix1twofivexjn8 : 58 : 
+[[0, 5], [1, 5], [5, 4], [9, 9], [13, 4]] :	5fivefournine4 : 54 : 
+[[10, 6], [13, 5], [14, 7], [19, 3]] :	gzhzlbkzrlsix5seven3tm : 63 : 
+[[0, 8], [12, 6], [15, 4], [16, 1], [21, 6], [22, 3]] :	eightpgqrhfqsix41slrs6three : 83 : 
+[[0, 5], [4, 3], [9, 4]] :	five3dtfzfour : 54 : 
+[[0, 6], [1, 8], [2, 1], [3, 3], [4, 9]] :	6813nine : 69 : 
+[[0, 3], [1, 7]] :	3sevenrnhznczgb : 37 : 
+[[9, 7], [24, 3], [29, 2]] :	mmcgrkjhbsevensevenvrhclthree2 : 72 : 
+[[1, 4], [5, 3], [10, 9], [11, 9]] :	pfourthree9ninenine : 49 : 
+[[0, 9], [11, 2], [17, 7]] :	9fbxvvtbzkttwoftv7 : 97 : 
+[[2, 3], [7, 9], [8, 4]] :	mmthree94fbm : 34 : 
+[[0, 1], [10, 2]] :	1vsblnklmm2zqmntkp : 12 : 
+[[0, 1], [3, 9], [7, 5], [18, 2], [19, 3], [24, 8]] :	oneninefivenineone2threeeight : 18 : 
+[[0, 4], [1, 7], [25, 9], [29, 2]] :	4sevenxzjfxbfdzgfgvjgjdscninetwo4 : 42 : 
+[[0, 6], [1, 4], [2, 6], [11, 1], [13, 8]] :	64sixfrmtmjoneightt : 68 : 
+[[7, 7], [12, 1], [15, 5]] :	gzzlqqjsevenone5 : 75 : 
+[[0, 1], [1, 2], [16, 8]] :	1twoxpcqcvgmhbcm8thlrzmplqpkrbjrqr : 18 : 
+[[6, 2], [7, 9], [8, 1], [9, 4], [13, 7], [18, 1]] :	jgjqqn291foursevenonefnrdhxt : 21 : 
+[[0, 3], [8, 8], [9, 1], [12, 8]] :	3bvznvqd8oneeightzchdjvj : 38 : 
+[[5, 1]] :	ntqtg1 : 11 : 
+[[10, 6], [23, 9], [27, 7], [32, 4]] :	hsqkbfnxcbsixmvfhxrvxrvnineseven4 : 64 : 
+[[11, 1], [12, 7], [17, 1], [20, 9]] :	bkztqhhbdzr1sevenonenine1 : 19 : 
+[[1, 7], [2, 9], [7, 5]] :	v79zpdqfive : 75 : 
+[[2, 2], [4, 1], [7, 6], [16, 7], [21, 1]] :	tqtwonesixlhhnvf77one1 : 21 : 
+[[0, 2], [1, 2], [4, 4]] :	2twofour : 24 : 
+[[0, 8], [5, 8], [6, 9], [7, 7]] :	eight89seven : 87 : 
+[[0, 7], [1, 6], [4, 6]] :	7six6fmzlrttxstdrg : 76 : 
+[[0, 7], [5, 3], [17, 8], [18, 9]] :	seventhreecbldkqd89threesevenpplfv : 79 : 
+[[0, 7]] :	7hmhxpg : 77 : 
+[[0, 3], [11, 5], [18, 4], [26, 9]] :	threepmvqfc5rktgjl4xvdzmhrninef : 39 : 
+[[0, 7], [10, 1], [11, 7], [24, 2]] :	7qnlqhtrrk1sevenqfgpkdfc271seven : 72 : 
+[[0, 4], [9, 1]] :	4gxrqspvg1 : 41 : 
+[[11, 8], [15, 7]] :	zdgfscbzbdg8rvqseven : 87 : 
+[[0, 8], [5, 7], [10, 4], [14, 5]] :	eightsevenfour5 : 85 : 
+[[0, 5], [4, 8]] :	five8five : 58 : 
+[[12, 2], [17, 6], [20, 5]] :	xprtcnxztmfgtwosnsix5six5 : 25 : 
+[[13, 7], [22, 2], [23, 6]] :	zpjrhddxfzhdm7pzhxnzsp2six772 : 76 : 
+[[0, 4], [1, 3], [2, 5], [6, 9], [7, 2], [8, 6], [15, 4]] :	43five92sixfivefour : 44 : 
+[[0, 6], [11, 5], [15, 5], [16, 6], [19, 7], [26, 1], [29, 4], [30, 2]] :	6kjknjjrjkdfive5sixsevennjone4twonexr : 62 : 
+[[0, 1], [2, 7], [12, 5], [13, 4], [27, 6]] :	11sevenhvsrb5fourhzxrmgfsl5six : 16 : 
+[[0, 2], [16, 1]] :	2kbtkmsdfkdzmfplone : 21 : 
+[[0, 6], [1, 8], [2, 1], [5, 7], [13, 7], [17, 1]] :	68onesevenone7one1 : 61 : 
+[[0, 1], [3, 3], [4, 6], [5, 8]] :	one36eight : 18 : 
+[[0, 8], [1, 9], [12, 1], [15, 1]] :	89srlblvkzrjone1 : 81 : 
+[[0, 7], [1, 3], [16, 1]] :	7threekmzvhxpsdc1 : 71 : 
+[[0, 3], [1, 6], [2, 4], [3, 8]] :	3648pmjmj4 : 38 : 
+[[0, 5], [4, 2], [7, 3], [12, 8], [13, 8], [18, 1], [22, 7]] :	fivetwothree8eightonev7x : 57 : 
+[[5, 1], [13, 4], [14, 8], [15, 3], [20, 5]] :	jlkvd1tgjvdqv48three5 : 15 : 
+[[2, 2], [4, 1], [7, 1], [16, 8], [17, 2], [18, 8], [26, 5], [30, 6], [31, 3]] :	tvtwone1rhcbkfcj82eighttwofive63 : 23 : 
+[[13, 7], [23, 9]] :	rkpvjgsfmhbvd7nckshnmzknine : 79 : 
+[[0, 8], [3, 7]] :	8md7xh8bvsdmhjdxq : 87 : 
+[[0, 3], [21, 5], [24, 4], [25, 8]] :	threejzrnnfczgzdmcchv5hv4eight : 38 : 
+[[0, 8], [8, 4], [17, 9], [18, 2], [19, 6]] :	8lqnnnpmfourkndkf926 : 86 : 
+[[0, 6], [1, 5], [2, 1]] :	651jfltzffxh : 61 : 
+[[0, 1], [6, 5], [7, 4], [11, 6]] :	onehzk5foursix5 : 16 : 
+[[0, 3], [5, 7], [6, 6], [9, 5], [17, 5], [18, 2], [21, 9]] :	three7sixfivefive5twonine : 39 : 
+[[0, 4], [4, 3], [5, 5], [9, 1], [13, 5], [14, 7]] :	four3fiveonef57 : 47 : 
+[[0, 5], [1, 7]] :	5seven5pbqmzzkqsp : 57 : 
+[[1, 1], [4, 8], [5, 5]] :	none8five : 15 : 
+[[0, 6], [1, 3], [10, 9], [11, 8], [23, 4]] :	6threefpqx9eightkhmrgqm4 : 64 : 
+[[6, 1], [7, 8], [8, 7], [19, 9]] :	ndgmck187mjkxccsdhknine : 19 : 
+[[0, 2], [2, 2], [14, 7]] :	2jtwomvxjnnpmcseven : 27 : 
+[[14, 7], [19, 6], [29, 4], [33, 8], [38, 8]] :	bdfnkbhbbfvztpseven6kgknpxmxdfoureight8 : 78 : 
+[[2, 2], [15, 5], [19, 8]] :	cxtwoskgklsqkdpfive8twohq : 28 : 
+[[0, 5], [1, 7], [6, 6], [7, 7], [8, 2], [11, 8]] :	5seven67two8dlzmttpdh : 58 : 
+[[7, 2]] :	cdkzhtk2fvmdtphsxk : 22 : 
+[[0, 3], [10, 8]] :	threepqcgj8dkfgjp : 38 : 
+[[0, 5], [1, 6], [12, 8], [16, 2]] :	56tgggrrgdnveightwolc : 52 : 
+[[0, 9], [5, 6], [8, 1], [13, 1], [23, 3]] :	ninezsix1rnpponedpkqrpdthree : 93 : 
+[[5, 3], [6, 6], [9, 9]] :	vmgtq3six9 : 39 : 
+[[6, 6], [16, 3], [17, 5]] :	nhbjgxsixsrrftdt3fivedcdqqq : 65 : 
+[[0, 6], [1, 5], [20, 1]] :	6fivevqxphgvrflbvljlone : 61 : 
+[[0, 9], [7, 2], [10, 3], [15, 4]] :	ninexbjtwothree4 : 94 : 
+[[1, 8], [5, 2], [13, 5], [17, 3], [23, 2]] :	heightwocjpppfive3vlcpc2bt : 82 : 
+[[12, 9], [16, 5], [18, 2]] :	tbtxlftsnsnknine5q2 : 92 : 
+[[0, 5], [20, 3], [34, 1], [37, 2]] :	fivemfqlxlpgbpjgnvpfthreefivejzcpkone2 : 52 : 
+[[0, 5], [10, 6], [13, 3], [18, 9], [22, 4]] :	5dmzkpmpghsixthreenine4 : 54 : 
+[[0, 2], [3, 9], [4, 7], [13, 5], [14, 7], [15, 8]] :	two9seventqzb578kmfrvlj : 28 : 
+[[0, 6], [3, 8], [4, 5], [6, 3]] :	six855three : 63 : 
+[[0, 2], [6, 9], [13, 1]] :	2kddfgninezgsonedptb : 21 : 
+[[0, 1], [9, 4], [22, 5], [26, 1]] :	1cbbtg1kffourmjxbnvfgjfiveonemgbjtmd : 11 : 
+[[0, 5], [1, 3], [8, 9]] :	5threec5nine : 59 : 
+[[4, 5], [7, 7], [8, 3], [13, 1], [17, 5]] :	pvgd5sf7three1lnrfive : 55 : 
+[[0, 8], [1, 3], [10, 6]] :	83mtfjsrln6 : 86 : 
+[[7, 3]] :	khtglxc3 : 33 : 
+[[8, 2], [9, 8], [10, 9], [15, 3]] :	qckdfjbz289nbhnthreehljqfklhmjvrgxt : 23 : 
+[[0, 5], [6, 6], [12, 7], [13, 2]] :	5kmslxsixsix72 : 52 : 
+[[7, 5], [8, 9]] :	jlcfmqh5nine : 59 : 
+[[0, 4], [1, 5], [3, 4], [7, 9]] :	454fournine : 49 : 
+[[18, 5], [27, 5], [31, 6]] :	jgbfzxdsfpcjpsdlhs5gbsnjxhsfivesix : 56 : 
+[[5, 7], [15, 6]] :	scxsgsevenseven6fdkcpzm : 76 : 
+[[4, 7], [15, 4], [16, 3], [17, 1]] :	cbznsevenddvdql431 : 71 : 
+[[0, 5], [4, 4], [10, 8], [11, 7], [12, 1]] :	fivefourpj871 : 51 : 
+[[1, 1], [3, 8], [8, 2], [11, 5], [15, 4]] :	xoneighttwo5css4 : 14 : 
+[[0, 6], [3, 7], [8, 1], [11, 4], [12, 9]] :	sixsevenone49 : 69 : 
+[[10, 6], [11, 3], [16, 9], [20, 7], [31, 8]] :	xpvktkbdzc6threenine7nine6cnxsdeight : 68 : 
+[[0, 6], [5, 8], [21, 3], [26, 3]] :	6nlsg8zczsblcppjmbzlnthree3 : 63 : 
+[[9, 8], [14, 2], [17, 1], [21, 5], [25, 4]] :	jlhzvzskseighttwo1twofivefournqzeight : 84 : 
+[[9, 6], [10, 5], [11, 3], [12, 6], [19, 1], [22, 4]] :	smmsszqpv653sixsdp5onefour : 64 : 
+[[0, 8]] :	8nhgxc : 88 : 
+[[9, 1], [10, 4]] :	cbskddhjq1fourfourj : 14 : 
+[[8, 5], [19, 2], [21, 1]] :	vqnjgcml5vvggqqlhvdtwonetg : 51 : 
+[[0, 4], [5, 1], [20, 7], [31, 2], [34, 3]] :	4gdhf1bxrhlnslpnglcx7rhvgnhzjvstwo3 : 43 : 
+[[0, 8], [1, 4], [5, 5], [9, 9], [14, 9], [18, 4], [19, 1]] :	8fourfive9fivenine4one9 : 81 : 
+[[0, 5]] :	5xbggkdbkddmfknsxpv : 55 : 
+[[0, 9], [1, 5]] :	9fivekkttcpntr : 95 : 
+[[3, 2], [6, 4]] :	cvltwo4 : 24 : 
+[[0, 1], [1, 4], [5, 6], [6, 2]] :	1four62 : 12 : 
+[[0, 9], [1, 9]] :	9ninevc : 99 : 
+[[8, 6], [21, 1], [24, 2], [29, 3]] :	nmfrttms6czdhrdchfkntonetwogc3 : 63 : 
+[[0, 8], [8, 9]] :	8dfbqlpz9 : 89 : 
+[[0, 5], [4, 6], [10, 5], [11, 9], [13, 9], [17, 4]] :	fivesixsix595nine4 : 54 : 
+[[0, 6], [6, 7], [7, 1], [8, 9]] :	6mmpks71nine : 69 : 
+[[11, 7], [16, 2], [19, 3], [23, 8]] :	ndhdkddjchhseventwo33fv8q : 78 : 
+[[0, 9], [21, 1], [22, 7], [27, 2]] :	ninerbnhsxkninemdthft1seventwonvgdcgt : 92 : 
+[[0, 2], [3, 6], [11, 3]] :	twosixbmthh3srhdtnljqlqsbxssnsix : 23 : 
+[[0, 7], [5, 2], [7, 9], [15, 5]] :	seven22ninedplffive : 75 : 
+[[4, 1], [5, 2]] :	xpsh1twoqmhkqqsjz : 12 : 
+[[0, 8]] :	8vrxzhkq : 88 : 
+[[0, 5], [1, 9]] :	5ninegr : 59 : 
+[[0, 5], [4, 9], [13, 2], [16, 3], [21, 6], [22, 2]] :	five9nqcmxngktwothree62threethree : 52 : 
+[[7, 9], [11, 7], [16, 9], [18, 8]] :	qffhltbnineseven9reight : 98 : 
+[[0, 3], [15, 2]] :	threerqddxgmjnj2 : 32 : 
+[[0, 7], [5, 8], [21, 9], [25, 2], [31, 2]] :	seveneightqxxgmrzxvhdnine2seventwomtkdmjbkfh : 72 : 
+[[0, 9], [10, 4], [21, 2]] :	9vppxpsnpdfourdmtqtbm2hpgqlgr : 92 : 
+[[0, 7], [5, 3], [20, 3], [28, 8]] :	seventhreeczjngnklxg3nsfqzqqeighthcggbk : 78 : 
+[[13, 9], [14, 2]] :	fflnhnnzncdnh9twoqhx : 92 : 
+[[4, 7], [9, 5], [11, 1], [20, 9]] :	fjpqseven5noneseven5nined : 79 : 
+[[6, 9], [14, 2], [15, 8], [20, 5]] :	kdnhflninenine2eightfivemknllfgqspbcrjklx : 95 : 
+[[20, 2], [21, 9], [22, 1]] :	jmgfqhchzmdfnpthhhcc291shhdqp : 21 : 
+[[0, 5], [11, 2], [12, 5], [16, 9], [17, 9], [21, 6], [22, 4]] :	5bphvpcxvdf2five9nine6four : 54 : 
+[[0, 9], [11, 7], [12, 6], [15, 8], [21, 3]] :	9gfpnzjkmlb76xreight9threeqvjxpssvrs : 93 : 
+[[0, 4], [3, 6], [6, 6], [7, 5], [11, 1], [22, 3]] :	4hpsix6five1ptrdlkfmgr34 : 43 : 
+[[0, 1], [1, 6], [14, 2], [17, 3], [18, 6], [19, 8]] :	1sixnkvfkvdfjqtwo36eightjnfz : 18 : 
+[[10, 4], [14, 7], [19, 6], [24, 1]] :	bzstgfhrmmfourseven6xnfvonegzc : 41 : 
+[[0, 5], [4, 6], [7, 4], [8, 2], [9, 6]] :	fivesix426vgzshhklnknbclnbbpm : 56 : 
+[[1, 5], [2, 3]] :	k5threetrkghrbcn : 53 : 
+[[0, 1], [1, 3], [2, 9]] :	13nine : 19 : 
+[[0, 1]] :	1vlrvlxrsrznlpf : 11 : 
+[[0, 9], [9, 1], [11, 2]] :	9tgzzddgr1b2 : 92 : 
+[[0, 6], [1, 7], [29, 9]] :	6sevenrzvcqzsckkqbtsevensevenninehbmlxbzzlf : 69 : 
+[[0, 1], [1, 9]] :	1991vkjhdp : 19 : 
+[[0, 9]] :	9jkhnrjjv : 99 : 
+[[0, 6], [1, 7], [6, 4], [7, 7], [14, 3], [19, 4], [23, 9]] :	6seven47sstqkbthreefour9bmkfbxrzp : 69 : 
+[[0, 7], [5, 8], [16, 6], [17, 1], [18, 7], [19, 2], [20, 5]] :	seveneightnprhzf61725 : 75 : 
+[[0, 1], [6, 7], [7, 8], [17, 6]] :	oneone7eight7cpll67 : 16 : 
+[[0, 8], [1, 8], [6, 7], [7, 1]] :	8eight7one : 81 : 
+[[0, 2], [1, 3], [8, 7], [16, 6], [19, 1]] :	23bthc337qxhmfbgsix1 : 21 : 
+[[0, 9], [2, 6], [3, 1], [10, 1]] :	9r61vtgqklone : 91 : 
+[[0, 1], [6, 6]] :	oneplh6 : 16 : 
+[[0, 4], [4, 9]] :	four9kfmzbgxlhlxxjf : 49 : 
+[[3, 9], [4, 5]] :	mhk95 : 95 : 
+[[4, 6], [7, 7], [8, 1], [9, 7], [14, 3], [24, 4]] :	csdfsix71seventhreesevenfour : 64 : 
+[[5, 3], [6, 9]] :	sqhrc39 : 39 : 
+[[0, 6], [1, 3], [6, 2]] :	6three2 : 62 : 
+[[0, 4], [4, 1], [6, 6], [9, 2], [18, 7], [24, 5]] :	four11sixtwofmvgjvseven1five : 45 : 
+[[0, 4], [4, 4], [5, 9], [16, 2]] :	four4ninefourkmz2 : 42 : 
+[[3, 5], [4, 7], [9, 3], [10, 5]] :	mqm5seven3five : 55 : 
+[[0, 7], [5, 9], [9, 6], [10, 3], [11, 6], [15, 2]] :	sevennine63sixvtwo : 72 : 
+[[0, 8], [1, 1], [32, 5]] :	81rrvgzzrkzmgsgffvgxlrfbmqxczhtl5tvj : 85 : 
+[[2, 8], [6, 7], [8, 8], [13, 6], [14, 2]] :	vq8qmg7geight62 : 82 : 
+[[0, 1], [1, 2], [9, 7], [14, 4], [15, 6], [18, 7], [19, 3]] :	1twoqmmfcseven4six734 : 13 : 
+[[0, 9]] :	9ghstzndfnmzbtdscl : 99 : 
+[[0, 8], [2, 2], [5, 6]] :	88twosix : 86 : 
+[[0, 8], [1, 5], [5, 5], [6, 8], [10, 2]] :	8five5eightworh : 82 : 
+[[10, 6], [11, 8], [16, 9]] :	ddqdflzbhr68mrdc9 : 69 : 
+[[0, 2], [1, 3], [9, 7]] :	2threefdb77 : 27 : 
+[[0, 7], [1, 9], [5, 4]] :	7nine4rbfknbtnsvljnqdtz47 : 74 : 
+[[12, 7], [13, 9], [20, 6], [21, 8]] :	xrfdfcrtqssx79dvhzls68 : 78 : 
+[[5, 6], [11, 9]] :	cvqjp6fxkdx9qvsjqptvs : 69 : 
+[[7, 1]] :	hbzjllr1 : 11 : 
+[[0, 1], [1, 9], [2, 8], [3, 5], [4, 1], [9, 2], [10, 9]] :	1985onezp2nine : 19 : 
+[[0, 6], [1, 6], [6, 5], [7, 2]] :	6sixqk52lpftrt : 62 : 
+[[5, 8]] :	zfqqj8 : 88 : 
+[[1, 4], [16, 1], [17, 2]] :	c4rljszsspxnnvjl1two : 42 : 
+[[0, 7], [1, 8], [20, 3], [25, 8], [33, 2]] :	78phbjhkmjltcrxqdblfthreeeightvndtwosksxsxccqz : 72 : 
+[[0, 4], [1, 5], [2, 3], [7, 2], [10, 7], [15, 6], [18, 4]] :	453gnjntwosevensixfourtwo : 44 : 
+[[0, 2], [22, 3]] :	2fpnkqlzvmlbbkfxmqgrgv3tbtrkmprx : 23 : 
+[[1, 5], [5, 5], [7, 3], [8, 2]] :	ffive5f3two : 52 : 
+[[0, 2]] :	2grzqfmnrld : 22 : 
+[[0, 2], [3, 5], [9, 7], [10, 6], [11, 5]] :	twofiverd76566csz : 25 : 
+[[0, 8], [5, 4]] :	eight4zftjjzrkx : 84 : 
+[[0, 1], [3, 4], [7, 8], [17, 3], [22, 3]] :	onefour8nvrxkqzrfthree3hvzk : 13 : 
+[[9, 7], [10, 6], [24, 9], [28, 8]] :	fmzqklgfh76lcpjxlvrmgfqpnine8 : 78 : 
+[[0, 9], [4, 9], [26, 1]] :	nine9xjvvxdvksqrqlhqvrbjvx1 : 91 : 
+[[8, 8], [17, 8], [21, 2]] :	vlfcpfvl8msxhnftleightwop : 82 : 
+[[0, 8], [1, 4], [2, 6], [3, 9], [7, 3], [12, 2], [19, 2]] :	846ninethreetwo6two2 : 82 : 
+[[0, 4], [10, 2]] :	4mjbcckzrhtwo : 42 : 
+[[4, 3], [5, 1], [8, 6], [11, 4], [15, 8]] :	blsn3onesixfour8 : 38 : 
+[[0, 1], [1, 4], [2, 2]] :	14two : 12 : 
+[[0, 5], [4, 3], [12, 4]] :	five3fivesbhfour : 54 : 
+[[0, 1], [10, 5], [11, 8]] :	onevpqdqds5eight : 18 : 
+[[8, 8], [9, 6], [10, 1], [11, 1], [14, 8], [19, 4], [23, 6]] :	pcvcsnhv861oneeightfoursix6 : 86 : 
+[[1, 6], [4, 7]] :	csix7vjllblmgjg : 67 : 
+[[3, 4], [4, 3], [9, 6], [12, 5]] :	mmn4threesix5vxdsf : 45 : 
+[[1, 1], [4, 4], [5, 5]] :	v1vx4fivefive4fivevjfjvkf : 15 : 
+[[0, 5], [1, 3], [8, 9]] :	53tsbldc9skgcshbvxdd : 59 : 
+[[0, 1], [1, 5], [2, 9], [19, 3], [20, 7], [21, 6]] :	1595bxscggsspvjnbxx37six : 16 : 
+[[0, 7], [5, 8], [7, 3]] :	seven883 : 73 : 
+[[0, 3], [1, 5], [2, 6], [5, 1], [8, 4]] :	35sixone4lbzcbgk : 34 : 
+[[12, 3], [13, 9], [26, 6], [35, 7], [40, 2]] :	tlmvbhjnkknz3nineltztzpclxsixzjnbfvseventwo : 32 : 
+[[13, 5], [17, 9], [18, 3]] :	rccrkvsvxjbchfive933 : 53 : 
+[[0, 5], [5, 2], [18, 6]] :	5shkktwokfkkmrxzsssix : 56 : 
+[[0, 5], [4, 9], [5, 3], [6, 3]] :	five93three : 53 : 
+[[0, 8], [1, 6], [4, 4], [13, 8], [17, 2]] :	8six44snhpssteightwomjv : 82 : 
+[[0, 9], [4, 1], [15, 4]] :	nine1nrrjrvjfml4dcklljns : 94 : 
+[[9, 4], [10, 2], [11, 8], [12, 1], [13, 9]] :	pclkcskcp428199 : 49 : 
+[[0, 5], [10, 2], [22, 2], [23, 4], [24, 8], [29, 6]] :	fivepjvbtstwojshbgxmdr24eightsix : 56 : 
+[[0, 6], [1, 8], [6, 4]] :	6eight4 : 64 : 
+[[20, 2], [21, 5]] :	mjjghhcqrttcjrzhjjrc2five : 25 : 
+[[10, 7], [15, 4], [19, 4]] :	xkhxgsqjstsevenfour4 : 74 : 
+[[0, 3], [1, 1], [4, 5], [15, 6]] :	3one5gvmhcbkkdd6 : 36 : 
+[[1, 3], [2, 9], [6, 9], [7, 3], [23, 6]] :	v3nine9threepfphnkthree6three : 36 : 
+[[2, 8], [3, 2], [13, 1], [20, 1]] :	ml8twoxnzgqjx1rxbpjnonezrp : 81 : 
+[[0, 1], [3, 8], [19, 4]] :	one8dtxklgmlnbqhpxl4 : 14 : 
+[[0, 1], [1, 4], [5, 8], [10, 9]] :	1foureight9fourkmp9 : 19 : 
+[[0, 6], [7, 4]] :	6vzzdgtfourxtzglhxzvcs : 64 : 
+[[2, 4], [3, 1]] :	rg4onejhpgsfgpdql : 41 : 
+[[3, 8], [8, 4], [9, 8], [11, 4], [15, 7]] :	sqpeight488four7svb : 87 : 
+[[0, 6], [1, 3], [2, 5]] :	63five : 65 : 
+[[0, 3], [1, 9]] :	39khkbdllxv : 39 : 
+[[19, 5], [20, 3], [21, 6], [23, 9], [27, 6]] :	bdnjhtcqrxrnnjflfrx5366ninesix : 56 : 
+[[0, 2], [10, 8], [11, 5], [18, 8]] :	tworfrqzgl85twotwoeight5 : 28 : 
+[[2, 8], [6, 2], [9, 8], [16, 6], [22, 9]] :	jxeightwo8ttdxhc6xqphg9ntmrtrmxfnjb9 : 89 : 
+[[0, 9], [1, 3], [4, 6], [7, 8]] :	933rsixeightzbkqkb : 98 : 
+[[0, 1], [1, 1], [4, 6], [7, 4], [11, 4], [15, 6]] :	1onesix4onefour6d : 16 : 
+[[0, 3], [5, 6], [25, 2]] :	three6vxnhgxbdxxmdmmggmnxtwocrvftworpsdrrkx : 32 : 
+[[0, 5], [1, 9], [5, 8]] :	5nineeightninezvf : 58 : 
+[[0, 5], [2, 4]] :	5jfour : 54 : 
+[[9, 8]] :	zftjzrfjz8 : 88 : 
+[[0, 8], [1, 4], [5, 5], [6, 9], [11, 4]] :	8four5nine84mpcktbm : 84 : 
+[[3, 6], [4, 5], [8, 5], [11, 8]] :	vgg6five5pr8 : 68 : 
+[[0, 3], [1, 6], [4, 2], [10, 7]] :	3sixtwotwo7ppfsbfppbkmjtlktrx : 37 : 
+[[0, 6], [7, 6]] :	sixnhcl6bxjxdmgt : 66 : 
+[[10, 9], [11, 8]] :	pdqfvzgsps9eightj : 98 : 
+[[0, 6], [3, 5], [7, 8], [8, 7], [18, 1]] :	sixfive87hjksxxbgz1prvfqnnsfmfive : 61 : 
+[[6, 9], [10, 7], [21, 3]] :	tztgzrnineseventjqhxn3 : 93 : 
+[[0, 2], [3, 8], [8, 3], [10, 3]] :	twoeight3zthree : 23 : 
+[[4, 3], [5, 2]] :	nczc3two : 32 : 
+[[7, 4]] :	jdklbdr4 : 44 : 
+[[1, 9], [2, 3], [6, 6], [10, 1]] :	j93mnmsixt1 : 91 : 
+[[0, 2], [1, 5], [5, 9], [10, 2], [13, 6], [14, 5]] :	2fivenine2two65xhcjfnddbqlbd : 25 : 
+[[0, 6], [3, 4], [4, 8], [17, 3], [18, 1], [19, 9]] :	six48zsklgprrvklt319 : 69 : 
+[[0, 6], [1, 7], [6, 1], [7, 3], [15, 2]] :	6seven1threephh2bldxvrlln : 62 : 
+[[0, 8], [2, 3], [7, 1]] :	88threeone : 81 : 
+[[7, 2], [10, 9], [14, 2]] :	hqktgxxtwonine2 : 22 : 
+[[0, 1], [1, 4], [2, 4]] :	14fourtghmvcbbnkxkhrvncskgthqqfkgpbrln : 14 : 
+[[0, 3], [6, 7], [10, 5]] :	threen7rnk5zgjfvtlcs : 35 : 
+[[0, 9], [4, 8], [5, 7], [6, 2], [9, 5], [10, 6]] :	nine87two56 : 96 : 
+[[0, 8], [1, 5], [2, 9]] :	859 : 89 : 
+[[0, 6], [3, 8], [5, 7], [6, 2]] :	six8q7twohnrphb : 62 : 
+[[0, 9], [1, 3], [2, 1], [5, 9], [9, 3], [14, 4]] :	93oneninethree4 : 94 : 
+[[0, 1], [3, 7], [13, 5]] :	one7nbzmqdxmj5qfxzcmxfkx : 15 : 
+[[0, 3], [1, 2], [4, 2], [8, 9], [9, 6], [10, 9]] :	3two2two96ninecnkbt9 : 39 : 
+[[8, 8], [9, 2]] :	fvcqktlf8two : 82 : 
+[[0, 6], [3, 4], [4, 9], [9, 5], [15, 3]] :	six4nine4fiveqjthree : 63 : 
+[[0, 9], [1, 1], [7, 6], [8, 8], [13, 3], [14, 2], [17, 5]] :	91qgvlq6eight3twofive : 95 : 
+[[0, 7], [1, 9], [2, 7], [7, 5]] :	79sevenfivetcmcsrvvlsl : 75 : 
+[[0, 6], [4, 6]] :	6bnssix : 66 : 
+[[0, 3], [5, 4], [9, 6], [12, 8], [13, 8], [18, 2], [19, 5]] :	threefoursix8eight2fivehpp : 35 : 
+[[12, 8]] :	tlxmqclgdchq8 : 88 : 
+[[0, 3], [5, 4], [17, 1], [18, 5], [19, 5]] :	threefourthreelbd15fiveknzhg : 35 : 
+[[4, 6], [5, 8], [18, 3]] :	ktqk68czbjrbkrlnmg3 : 63 : 
+[[0, 1], [15, 6], [26, 8]] :	oneonerptgcnqzt6fpthmjhgxc8 : 18 : 
+[[17, 3]] :	rcbfpqhxgjfgfgjcm3 : 33 : 
+[[9, 5], [25, 8], [26, 7]] :	bxbbqcvvlfivefiversxqpmcb87r7 : 57 : 
+[[0, 2], [3, 1], [4, 8]] :	two1eight : 28 : 
+[[0, 9], [1, 6], [2, 7], [21, 3]] :	96sevencktptc9fmnthrdthree : 93 : 
+[[0, 5], [9, 9]] :	fivehkzxl9five : 59 : 
+[[0, 2], [3, 7], [21, 9], [25, 2]] :	twosevengsblkmgfzqndznine2seven : 22 : 
+[[0, 2], [3, 5], [4, 8], [11, 9]] :	two58rlnjdqninetwo : 29 : 
+[[0, 5], [1, 5], [5, 1], [17, 2], [20, 6]] :	5fiveonesxhbkcjmctwosix : 56 : 
+[[0, 7], [5, 3], [10, 8], [11, 9], [12, 5], [13, 2]] :	seventhree8952bpqccspldk : 72 : 
+[[0, 8], [1, 4], [12, 1], [13, 1]] :	8fourpfcvrvc1one : 81 : 
+[[8, 2], [9, 7], [10, 9], [16, 2]] :	bpbtcnzk27ninemltwo : 22 : 
+[[0, 5], [4, 2], [12, 3], [17, 8], [24, 9]] :	five2tkqfivethree88ggmpg9 : 59 : 
+[[0, 7], [5, 6], [11, 3]] :	seven6seventhreemfmnmmbsn : 73 : 
+[[0, 3], [5, 6], [6, 1], [12, 1], [16, 9], [17, 8]] :	three61xrfghoned9eight : 38 : 
+[[9, 1], [10, 1]] :	mcffvkprk1one : 11 : 
+[[8, 3], [17, 3], [23, 7]] :	hvkxcdqcthreetqcr3threeseven : 37 : 
+[[0, 8], [8, 7]] :	8nmbnhbdseven : 87 : 
+[[4, 8], [5, 8]] :	bdzc8eight : 88 : 
+[[3, 2], [4, 9], [6, 1], [9, 7], [10, 8], [12, 3]] :	bzp292one78rthree : 23 : 
+[[0, 9], [5, 6], [8, 1], [11, 7], [12, 1]] :	ninexsixone71zdnqlcxrphnnbxsmpc : 91 : 
+[[0, 9], [13, 7]] :	ninempgdsbbdr7 : 97 : 
+[[0, 8], [1, 8], [6, 2], [7, 3], [8, 6], [9, 7]] :	8eight2367 : 87 : 
+[[0, 1], [1, 5], [4, 3], [5, 1], [14, 8]] :	15113onelhgvmp8 : 18 : 
+[[0, 8], [2, 7], [13, 1]] :	8f7gpjllpllptonecfhhpqvcr : 81 : 
+[[4, 6], [5, 9], [9, 1], [15, 4]] :	ztjj6nine1xsltr4 : 64 : 
+[[0, 9], [4, 2], [5, 7]] :	nine27gkkjnkcqzt : 97 : 
+[[0, 9], [3, 2], [4, 8], [5, 8]] :	9gr28eightthblghdkf9lcs : 98 : 
+[[0, 7], [14, 1], [25, 6], [28, 3], [30, 4], [34, 9]] :	sevenbbjnprlqh1tphfbhbgvlsix33fournine : 79 : 
+[[0, 3], [1, 7], [26, 1]] :	3sevenfmccnzqxfsfnctfrfngtone : 31 : 
+[[0, 6], [3, 9]] :	six9xcvlflj : 69 : 
+[[0, 9], [5, 1]] :	9fqcz1 : 91 : 
+[[0, 1], [3, 6], [4, 3], [23, 7]] :	one63one3kpnthgscdmtjprseven6 : 17 : 
+[[9, 7]] :	tlrkvjcdx7txkzrvzcjcvvljfcljc : 77 : 
+[[4, 5], [8, 2], [22, 7]] :	rfrsfive2ctdmdnqnpfzvvseven : 57 : 
+[[0, 1], [8, 6], [9, 4], [10, 8]] :	1trdgtvl648frnstf : 18 : 
+[[25, 9], [29, 3], [30, 6]] :	bxkqchjmphmbnjrkrxxcntpxjnine3sixnkffxsb : 96 : 
+[[0, 8], [1, 4]] :	84sxd : 84 : 
+[[0, 3], [1, 9], [2, 7]] :	397lfjmzbp : 37 : 
+[[0, 6], [6, 3], [11, 2]] :	sixvqjthree2szblfstz : 62 : 
+[[0, 2], [1, 9], [2, 6], [5, 8], [6, 3]] :	29six833 : 23 : 
+[[4, 9], [8, 8], [17, 4], [29, 1]] :	bnfnnine8nvjjprkmfourfourfour1 : 91 : 
+[[2, 9], [3, 3], [6, 8]] :	gb93b98cxblqxskm : 98 : 
+[[0, 3], [18, 4], [20, 7]] :	3zmggzvlvscbkblhmj4zsevencxgjxsbsr : 37 : 
+[[3, 1]] :	smf1 : 11 : 
+[[10, 5], [20, 4]] :	zghrszzcvb5rtnhzktts4 : 54 : 
+[[0, 2], [1, 6], [2, 5], [12, 1], [23, 8]] :	265qvrzllrctoneshgcbdsbeight : 28 : 
+[[0, 2], [1, 8], [10, 6], [14, 7]] :	2eightbjvlsixmseveneight : 27 : 
+[[21, 1], [22, 4]] :	tqfrgkqzbtxqcbxvjzgtp1four : 14 : 
+[[8, 1], [12, 8], [13, 2]] :	pmrrnmtt1kcf8two : 12 : 
+[[0, 4], [1, 9], [5, 1]] :	49bnp1tmcglrtpt : 41 : 
+[[0, 4], [1, 3], [6, 2]] :	4three2ggmbzgqltsqzzjjn : 42 : 
+[[0, 6], [3, 7], [13, 2]] :	six7frvkdsxdktwo : 62 : 
+[[0, 7]] :	7cjsnbps7bgqzc : 77 : 
+[[0, 1], [6, 8], [11, 8]] :	oneoneeight8xbfnnldvpdv : 18 : 
+[[0, 5], [1, 6], [2, 8]] :	568 : 58 : 
+[[0, 6]] :	6rhxfbn : 66 : 
+[[0, 9], [4, 5], [9, 9], [10, 5], [28, 2], [30, 1]] :	nine5nine9fivekftqqgpttptrfstwonerm : 91 : 
+[[0, 3], [5, 9], [6, 8], [7, 4]] :	three984 : 34 : 
+[[0, 8], [5, 9], [7, 4]] :	eight99fourmflfdnxvbbmhqfgqkzhkffvmkjxjtngjb : 84 : 
+[[0, 5], [8, 2], [11, 2], [12, 8], [22, 9]] :	fivefivetwo28zdjmpjccknine : 59 : 
+[[0, 5], [15, 8], [20, 4]] :	5jjs5vpjzfznrngeight4 : 54 : 
+[[0, 5], [4, 8], [5, 1], [8, 2], [15, 6], [16, 6]] :	five8one2xllhvb6six : 56 : 
+[[0, 3], [5, 9], [16, 1], [17, 4]] :	threeninelnfkjrz14 : 34 : 
+[[6, 3], [14, 4], [16, 3], [21, 5]] :	mhmqpq3hncgqgm43threefive : 35 : 
+[[14, 4]] :	tjtcrbklrbzvnc4 : 44 : 
+[[0, 3], [1, 7], [2, 2], [5, 4], [12, 3]] :	37twofourtwothreefour : 33 : 
+[[1, 2], [3, 1], [6, 2], [7, 3], [15, 3], [21, 7]] :	htwone2threetwo3xtkgk72 : 27 : 
+[[0, 3], [5, 9], [19, 1], [24, 9]] :	three9btgdgrpdvxkkb1gck1nine : 39 : 
+[[4, 4], [5, 7], [10, 1], [13, 9]] :	qgnd4sevenone9one4 : 49 : 
+[[20, 7], [21, 3], [26, 9]] :	lcstxnqmghgqzszkhnbf7threenine : 79 : 
+[[0, 5], [4, 8], [5, 4], [9, 5], [10, 1], [14, 6], [16, 3]] :	five8four51ddl613 : 53 : 
+[[0, 3]] :	3vslhppr : 33 : 
+[[0, 2], [26, 6], [36, 3], [37, 5]] :	tworkcgshlckqjtxpkgcgbgppq6hdvshlntq35 : 25 : 
+[[0, 1], [1, 8], [6, 5], [11, 5]] :	1eightfiveg5 : 15 : 
+[[0, 5], [4, 7], [9, 9], [13, 4], [14, 2]] :	five7ztflnine4two : 52 : 
+[[0, 3], [1, 9], [2, 2]] :	39two : 32 : 
+[[2, 1], [5, 4], [6, 7]] :	tgone47pvb : 17 : 
+[[0, 3], [1, 7], [6, 2], [16, 2]] :	37glxx23nhlmxvmvtwo2 : 32 : 
+[[0, 8], [5, 6], [8, 8], [9, 6], [10, 2], [13, 4]] :	eightsix86twofour : 84 : 
+[[0, 4], [1, 6]] :	46gznzktfqhlbsqz : 46 : 
+[[0, 1], [1, 7], [31, 2]] :	171rldrjxcvbsfqmmzcdrnqhjphjqgktwo : 12 : 
+[[0, 6], [1, 2], [5, 3], [14, 7], [15, 9]] :	6twob3xpfvfdxv79kqqcgljd : 69 : 
+[[0, 6], [1, 3], [6, 8], [22, 2]] :	6three8hpjtvmvmjxkkmlvtwo : 62 : 
+[[2, 8], [6, 2], [13, 4], [19, 6], [29, 6]] :	zdeightwomgvbfourfj6khtbsgttnsixeightstbnjmq6 : 86 : 
+[[9, 2]] :	fhdcqdskf2 : 22 : 
+[[16, 1], [17, 3], [22, 2]] :	mjssnpxchsclkhlh1threetwoxrbbxkcpkgsbxdxtxxbg : 12 : 
+[[0, 1], [9, 7]] :	1jxzvllkb71vxxpkmqtvs : 17 : 
+[[0, 3], [5, 7], [6, 4], [7, 6], [25, 8]] :	three74sixhcthreemgtbzsrh8 : 38 : 
+[[0, 6], [10, 9], [14, 2], [15, 3], [20, 9], [21, 7], [26, 5]] :	sixtthfskgnine2three9seven52 : 65 : 
+[[7, 3], [16, 8], [17, 4]] :	nhqzkththreezzsj8four : 34 : 
+[[0, 5], [1, 4], [2, 4], [19, 1]] :	54fourtklcqcsltgvgqone : 51 : 
+[[0, 4], [4, 7], [5, 8], [9, 2]] :	four7eightwoq : 42 : 
+[[1, 3], [2, 4], [3, 9], [4, 2], [13, 2], [16, 4]] :	k3492scxsbbngtwofourtwo : 34 : 
+[[0, 2], [3, 3]] :	two3ttwor : 23 : 
+[[0, 8], [10, 7], [12, 7], [33, 8]] :	8snlnfbczd78sevenchzjdphrskjngfkseight : 88 : 
+[[0, 4], [4, 1], [12, 5]] :	four1vxpvqk15ttcfkt : 45 : 
+[[0, 4], [1, 2]] :	4twoqql : 42 : 
+[[4, 4]] :	fhzj4lsvjg : 44 : 
+[[0, 7], [6, 4], [10, 4]] :	7hstphfour4jsbcndd : 74 : 
+[[0, 7], [1, 8], [6, 8], [7, 5], [11, 6], [14, 7]] :	7eight85qmjsixseven : 77 : 
+[[0, 1], [1, 3], [6, 6], [7, 2]] :	1three6two : 12 : 
+[[0, 5], [4, 7], [15, 9]] :	fivesevendxznmf9 : 59 : 
+[[0, 2], [3, 5], [4, 4], [8, 6], [9, 8]] :	two54hkv6eight : 28 : 
+[[16, 7], [17, 5], [19, 1]] :	tlkthdcfldvtzlnr7551 : 71 : 
+[[0, 1], [1, 6], [2, 8]] :	168qtpcr : 18 : 
+[[0, 4], [12, 7], [17, 9], [21, 4], [30, 5], [34, 9]] :	fourjlsmgtlvsevennine44hjcksrdfive9 : 49 : 
+[[0, 5]] :	5cxtbmsn : 55 : 
+[[0, 2], [1, 2], [17, 5], [21, 8]] :	2twolmtprmjhgndnkfive8qzrdfive : 28 : 
+[[0, 2]] :	2vpstbjqlxgtpqkd : 22 : 
+[[0, 4], [5, 3], [6, 5], [8, 2], [10, 1]] :	4dmcc35525one : 41 : 
+[[0, 4], [1, 8], [2, 6], [7, 1], [15, 8], [20, 9]] :	486xgkdoneffvrleightnine : 49 : 
+[[0, 6], [3, 1], [4, 1], [7, 5], [11, 2]] :	six1onefivetwo : 62 : 
+[[1, 1], [2, 4], [20, 9], [21, 6]] :	b144lvmzmxfgntpjhzrk96 : 16 : 
+[[6, 7], [13, 6], [17, 5]] :	gkgkgc7cmtghq6gbx5 : 75 : 
+[[0, 3], [5, 8], [6, 7], [7, 5], [11, 8], [16, 3], [18, 6]] :	three87fiveeight33six : 36 : 
+[[0, 1], [8, 3], [9, 6], [16, 1], [29, 3]] :	1hpkjqvz363vvzksonelfctrztjctthree : 13 : 
+[[9, 9], [15, 9], [19, 1], [22, 2], [23, 3], [29, 5]] :	pfqdlvkrs9nfpmtnineone2three2five : 95 : 
+[[0, 4], [1, 8], [2, 1], [5, 2], [13, 1]] :	48onetwovrnbz1two14 : 41 : 
+[[0, 9], [4, 5], [14, 5], [18, 1], [21, 6]] :	nine5bgvpnjbltfiveonesixfive : 96 : 
+[[0, 9], [4, 4], [12, 9], [13, 6], [19, 3], [20, 7]] :	nine4pqknine96spqdb37 : 97 : 
+[[10, 4], [11, 1]] :	mfgcngxqxb41 : 41 : 
+[[0, 2], [1, 6], [3, 7]] :	262sevensgfjjmdczrl : 27 : 
+[[3, 3], [13, 9], [17, 1], [27, 5]] :	qzmthreetvjdxnine1gpjsmxtth5 : 35 : 
+[[0, 9], [4, 3], [19, 1], [25, 4]] :	ninethreeplzkztkzlk1qhjvl4 : 94 : 
+[[0, 1], [3, 8], [8, 9], [12, 3]] :	oneeightnine3 : 13 : 
+[[0, 1], [5, 5]] :	onetk5 : 15 : 
+[[18, 6], [21, 4], [22, 3]] :	fthkbqqfhrpkprhqmssix43xcgdzhtrf : 63 : 
+[[0, 2], [11, 1], [12, 3]] :	twobhbtvtwo1three : 23 : 
+[[14, 5], [15, 9]] :	ftbdrfnffzkllk59vc : 59 : 
+[[0, 6]] :	6ncvrsm : 66 : 
+[[0, 7]] :	7ftcmjbdmx : 77 : 
+[[0, 1], [1, 2], [12, 3]] :	12fdnnnqvrrd3 : 13 : 
+[[0, 8], [5, 3], [23, 1], [29, 5]] :	eight3fqpqlhfvbrqlhhvpdonedzlfive : 85 : 
+[[0, 4], [14, 1], [17, 9], [18, 2], [26, 7], [39, 3]] :	fourktscmbltflone92fbcrpqhsevenhnpccrhb3 : 43 : 
+[[4, 5], [17, 9], [18, 6], [21, 6]] :	qbtz5mdksqshdqxft96dvsix : 56 : 
+[[3, 4], [7, 7], [8, 5]] :	tfpfour75dtgjjmzgjsgjbqdkpd : 45 : 
+[[4, 5], [15, 4]] :	pxjvfivevhjbmqz4 : 54 : 
+[[10, 8], [11, 5], [15, 5], [22, 6]] :	tknhlnldjm8five5bqbhzbsix : 86 : 
+[[0, 4], [1, 5]] :	45zqht : 45 : 
+[[0, 3], [18, 2], [19, 5], [31, 3]] :	3jrsvctdzpjjrbxznf25klxbnvhpxskthree : 33 : 
+[[0, 4], [4, 7], [18, 5], [26, 5]] :	foursevenskzzthntbfivefive5 : 45 : 
+[[0, 8], [5, 8], [6, 4], [14, 2], [15, 5]] :	eight84jtllflx2five8mqjnnl : 85 : 
+[[0, 5], [8, 6], [9, 9], [11, 2]] :	5xxkcbgx6952qpzgpmczsc : 52 : 
+[[0, 5], [4, 3], [13, 1]] :	five3mpqdccdmone : 51 : 
+[[1, 9], [14, 8], [26, 8], [27, 2], [30, 6], [33, 1]] :	kninezsmvpjfhdeightbcnctnf8twosixone : 91 : 
+[[0, 3], [1, 4], [11, 6], [24, 9]] :	34lpqxkcfjvsixshpnsixgrm9 : 39 : 
+[[8, 4], [9, 3], [14, 2], [17, 3]] :	glhtgtsq4threetwo3 : 43 : 
+[[0, 8], [15, 4], [16, 6], [17, 7]] :	eightjbtpnhvhxk46sevencfklxxvdvveightldqqtdtk : 87 : 
+[[5, 3], [10, 5], [14, 6], [23, 1]] :	fsdfhthreefivesixrkdrgk1thjlfflx : 31 : 
+[[0, 9], [7, 6], [20, 5], [24, 3]] :	ninekxr6djghngtqninefivethree : 93 : 
+[[0, 3]] :	3qszkcdvcdl : 33 : 
+[[0, 9], [1, 7], [14, 5], [18, 9], [32, 2]] :	9sevenxzcskrpgfiveninevcdmkpqqpp222 : 92 : 
+[[4, 6], [12, 1]] :	jmgt6vftshlq1 : 61 : 
+[[0, 4]] :	4mnmtbvdznmpmpkrp : 44 : 
+[[0, 9], [1, 4], [2, 9], [7, 7], [8, 2]] :	94nine972 : 92 : 
+[[2, 3], [20, 2]] :	rzthreebsjvthreenxqm2 : 32 : 
+[[8, 3], [9, 4], [11, 7]] :	dxhrstvj344seven : 37 : 
+[[0, 1], [1, 8], [6, 5], [14, 2], [29, 9], [30, 3]] :	1eightfivedtsstwojbxpnhjnzrgx9three : 13 : 
+[[4, 3]] :	jlkt3 : 33 : 
+[[0, 5], [4, 3], [9, 7], [11, 4], [15, 1], [20, 9]] :	fivethree7rfour1fournine : 59 : 
+[[8, 5], [15, 4], [19, 3], [20, 6]] :	rzggmhlvfivesxzfour363 : 56 : 
+[[0, 4], [11, 7], [19, 6], [22, 5], [30, 3]] :	4npxrvmxmmc7qjbcrhzsix5lbvkjpp3 : 43 : 
+[[0, 8], [5, 7], [6, 9], [10, 5], [18, 4], [28, 5]] :	eight7ninefivernpv4cddqhtvkb5 : 85 : 
+[[0, 5], [1, 3], [6, 7], [11, 6], [14, 1], [23, 3]] :	5threesevensixonesjvxjp3 : 53 : 
+[[0, 5], [8, 4], [9, 5]] :	5tppjjgj4five : 55 : 
+[[1, 1], [3, 8], [8, 3], [13, 9], [14, 2], [15, 9], [19, 5], [29, 5]] :	boneightthree92nine5tjppmvhtrfive : 15 : 
+[[0, 3], [21, 9], [22, 4]] :	threettgpkqcvjzdbjgzk9four : 34 : 
+[[0, 6], [12, 7], [17, 4]] :	6nzllfrrqkbgseven4nkgdddzbnhr : 64 : 
+[[8, 1], [11, 3]] :	czjbvrqkone3 : 13 : 
+[[9, 4], [10, 2], [11, 9]] :	msffqxbxc4294 : 49 : 
+[[0, 1], [3, 8], [4, 3], [10, 7]] :	one83dxstl7 : 17 : 
+[[0, 3], [1, 2], [8, 5]] :	32ghhrdt5 : 35 : 
+[[0, 8], [5, 6], [8, 2], [9, 7], [10, 2], [13, 8], [14, 5], [15, 1]] :	eightsix27two851 : 81 : 
+[[0, 1], [5, 2], [11, 2], [12, 9], [13, 5]] :	1pmkltwozrx295 : 15 : 
+[[1, 5], [2, 9], [3, 8], [4, 2]] :	j5982 : 52 : 
+[[0, 8], [1, 1], [10, 9]] :	81pspmvbbjninetxvpg : 89 : 
+[[0, 6], [3, 4], [10, 2], [20, 9], [24, 4]] :	six4pprdn4twozpqndgdninefour : 64 : 
+[[0, 3], [9, 8], [10, 6], [12, 2], [13, 5]] :	3hfthcgqq8682fivefcrfxxgd : 35 : 
+[[0, 9], [7, 8], [17, 6]] :	nineqtxeighttnine6dttrznddl : 96 : 
+[[7, 6], [11, 5]] :	htktrcx6gqv5 : 65 : 
+[[2, 6], [9, 1]] :	txsixsnls1 : 61 : 
+[[0, 5], [1, 2], [2, 8]] :	52eight : 58 : 
+[[0, 7], [1, 6], [2, 5], [6, 4], [10, 9]] :	76fivefour9 : 79 : 
+[[0, 8], [5, 8]] :	eight8tjtc : 88 : 
+[[0, 4], [4, 3], [5, 1], [14, 1], [16, 4], [18, 6]] :	four3onejlqvgl11436 : 46 : 
+[[5, 3], [6, 6]] :	dlpdv36 : 36 : 
+[[0, 7], [1, 4]] :	7foursvdjchltr7qjsj : 74 : 
+[[8, 3], [13, 6], [16, 4], [20, 7]] :	pknqzgvv3qsltsixfoursevenzggprjvz : 37 : 
+[[0, 3], [1, 8], [6, 5], [10, 8], [11, 1], [14, 2], [15, 2]] :	3eightfive8one2two : 32 : 
+[[1, 2], [2, 8], [6, 2]] :	z2eightwokcx : 22 : 
+[[0, 2], [1, 6], [12, 8], [17, 7]] :	2sixnlhfbfsfeightseven : 27 : 
+[[0, 8], [2, 4]] :	884qmtqcdcrd4 : 84 : 
+[[1, 8], [6, 9], [10, 9], [17, 7], [22, 4]] :	keightnine9lpmspq7ninefour : 84 : 
+[[0, 4], [1, 3], [2, 8], [8, 5], [12, 7]] :	43eight4five7 : 47 : 
+[[0, 2], [3, 4], [22, 7], [29, 1], [30, 2]] :	twofourfourfourtjfmflt7hcxfpf12 : 22 : 
+[[0, 7], [27, 5]] :	sevensjpbqjfnqtgcjtktfjhrdv5cr : 75 : 
+[[0, 6]] :	6ztdzvcsqm : 66 : 
+[[0, 8], [1, 6]] :	86xsdx : 86 : 
+[[0, 8], [11, 6], [17, 3], [18, 5], [26, 3]] :	eighthmfgbvsixxcd35zfblslpthree : 83 : 
+[[0, 7], [5, 8], [6, 2], [9, 8]] :	seven8twoeightpnzrsqlcv : 78 : 
+[[0, 5], [19, 6], [20, 1], [21, 7], [27, 3]] :	fivezmbqpxhfnnmvbsv61seven63 : 53 : 
+[[0, 5], [7, 1], [8, 1], [18, 5]] :	5vvddrt1onemvmdsvvfive : 55 : 
+[[0, 7], [1, 6], [13, 5], [14, 1]] :	7sixpfblcglgj51 : 71 : 
+[[1, 2], [2, 9]] :	s29 : 29 : 
+[[5, 4], [6, 1], [12, 1], [16, 3], [21, 7]] :	qtdbb4oneone1onethreesevenseven : 47 : 
+[[3, 7], [4, 6]] :	drj7six7 : 76 : 
+[[0, 6], [5, 6], [18, 7]] :	6cfhssixnnjgcxgnmssevenmbfzxps : 67 : 
+[[13, 5], [14, 8], [19, 2], [20, 9], [21, 4]] :	xbqdclktfrmlq5eight294zvtqhszfmtzd : 54 : 
+[[0, 8]] :	8rnrcpphkrmfnc : 88 : 
+[[0, 7], [5, 7]] :	seven77 : 77 : 
+[[0, 9]] :	9gntctbb : 99 : 
+[[9, 5]] :	tjgvxtbcn55mcjhmkgzkb : 55 : 
+[[0, 5], [4, 7], [9, 9], [20, 1], [31, 3], [36, 1]] :	fiveseven9dfllnqdntjonemdztmclc3five1 : 51 : 
+[[0, 8], [1, 3], [4, 5]] :	83zxfive : 85 : 
+[[0, 8], [1, 7], [34, 6], [37, 4]] :	87tjnbrxnhzpnthxpnxgczmlghjppfgghzsixfour : 84 : 
+[[0, 6], [2, 5], [6, 2], [8, 1]] :	6rfivetwonerhn : 61 : 
+[[0, 3], [6, 9], [7, 8]] :	3cnzlm9eightlqgtjppxj : 38 : 
+[[0, 1], [10, 3], [15, 5], [19, 3], [20, 8], [25, 7]] :	onefrttlfjthreefive3eight7brmcdrzdz : 17 : 
+[[0, 3], [16, 5], [20, 5], [22, 1]] :	threeczbzscthreefive551 : 31 : 
+[[0, 2], [1, 4], [2, 3], [18, 8]] :	2433sxdfjzshrfdpgseight : 28 : 
+[[0, 9], [1, 2], [19, 3]] :	92gfsjbjdbd9bhsqjpx3nkdpjxs : 93 : 
+[[0, 7], [1, 1], [2, 4], [6, 7], [11, 1]] :	71foursevenone : 71 : 
+[[0, 6], [1, 9], [17, 2], [20, 7]] :	6ninedlf6ldnxdzhdtwoseven : 67 : 
+[[0, 5], [8, 6]] :	fivegcpj6 : 56 : 
+[[5, 7]] :	xssdl7 : 77 : 
+[[0, 3], [8, 9]] :	3kcnqqhc9 : 39 : 
+[[4, 2], [17, 6]] :	sfsrtwosrpjlhbcng6 : 26 : 
+[[3, 8], [7, 2], [18, 2], [26, 1], [32, 4]] :	mvgeightwotbnzgrrc2tz22bpv1eightfour : 84 : 
+[[0, 9], [1, 4], [3, 6], [6, 2]] :	94msix2 : 92 : 
+[[15, 7], [16, 7], [21, 5], [33, 4], [37, 2], [38, 6]] :	tdzkqnbdrmrxfpm7sevenfivekqmhqldjfour2six : 76 : 
+[[0, 6], [3, 3], [8, 9]] :	sixthree9three : 69 : 
+[[0, 1], [1, 9], [2, 5], [3, 3], [4, 7], [9, 3]] :	1953seventhreenv5 : 13 : 
+[[0, 2], [1, 1]] :	2onemhgmxdktf : 21 : 
+[[0, 5], [1, 5], [5, 1], [8, 7], [13, 8]] :	5fiveoneseven8 : 58 : 
+[[9, 3], [14, 8], [19, 4]] :	frfvnqxtmthreeeight4 : 34 : 
+[[6, 2], [7, 4], [8, 8], [25, 2], [28, 7]] :	rphdqh24eightcpqxfjqqrchbtwo7 : 27 : 
+[[0, 7], [1, 6], [2, 5], [16, 4]] :	76fivebjmcnfrnvpfour : 74 : 
+[[0, 8], [1, 9], [5, 6], [15, 7]] :	8nine6mrxvppgvjsevenlhtrtnsxmzdnkhhjfcnfd6 : 87 : 
+[[4, 9], [8, 8]] :	hfmjnine8 : 98 : 
+[[0, 1], [3, 3], [10, 5]] :	one3rvbjqtfivecc : 15 : 
+[[0, 5], [4, 6], [17, 3]] :	five6fbfkpdvvpfjq3kdbvhtrkvgqz : 53 : 
+[[0, 2], [3, 2], [4, 7], [9, 9], [14, 7]] :	two2sevennined7 : 27 : 
+[[0, 5], [4, 8], [5, 4], [9, 7], [14, 3], [15, 9]] :	five8fourseven398 : 59 : 
+[[0, 6], [13, 3], [15, 1], [16, 5]] :	sixqccsqhgvhd3k1five : 65 : 
+[[0, 4], [3, 3], [8, 6]] :	4fgthreesix : 46 : 
+[[0, 4], [11, 2], [12, 8], [21, 2]] :	4xqgqfxltzx28jrfpqdmbtwo : 42 : 
+[[0, 3], [5, 3], [6, 5], [7, 2]] :	three35twozhgkpltmvbfsdzkfpbrkq : 32 : 
+[[8, 8], [9, 1], [27, 5], [38, 2], [41, 6]] :	zxcdrkhd8onepcmtkfmtkrphbhcfivetqhxrnttwo6 : 86 : 
+[[0, 6], [3, 3], [4, 6]] :	six36rsvpjcj : 66 : 
+[[0, 9], [1, 5], [12, 1], [21, 8]] :	9fiveqqdklbkonejpvxxteighthvthdsb : 98 : 
+[[0, 6], [3, 3], [4, 2]] :	six32 : 62 : 
+[[0, 5], [4, 8], [5, 3], [16, 7]] :	five83rthcrgdjqxsevenfive3 : 57 : 
+[[0, 9], [14, 7]] :	ninerdrthxkhnz7hlgllpkgjc : 97 : 
+[[5, 3], [6, 2]] :	jmzsq3two : 32 : 
+[[0, 7], [5, 9], [21, 7], [22, 4], [26, 6]] :	seven9kmcmbvztgsseven7foursixfourseven : 76 : 
+[[6, 5]] :	xpgtcr5hxgjgdxrz : 55 : 
+[[5, 1], [7, 3], [17, 7], [27, 3]] :	rvgdt1b3sggthcldlsevenseventhree : 13 : 
+[[0, 7], [5, 8], [10, 5], [22, 7]] :	seveneight5fbljmnfsdqc7sph5 : 77 : 
+[[0, 1], [3, 2], [6, 1], [7, 9], [11, 8], [15, 3], [20, 9]] :	onetwo1nine8jpgthree9 : 19 : 
+[[0, 6], [1, 9], [18, 5], [22, 8]] :	6ninekfqhgrtplninefive8 : 68 : 
+[[10, 3], [21, 4], [39, 5]] :	fxsmdhnjgx3ngqlsjtjnq4vqcrmgfqcnffnvdgt5tmddtbhx : 35 : 
+[[1, 4], [2, 9]] :	z49 : 49 : 
+[[0, 5], [1, 8], [6, 1]] :	5eightone : 51 : 
+[[0, 6], [1, 5], [8, 8], [12, 3], [17, 9], [21, 6]] :	6fivehkv8xtgthreeninesix : 66 : 
+[[8, 8], [9, 2]] :	hshtfdbf82 : 82 : 
+[[3, 1], [6, 7], [18, 6], [23, 1], [24, 3]] :	bgvonesevenrdtbhsl6zqxn13 : 13 : 
+[[16, 9], [20, 7], [25, 5]] :	hnlgrrsmhskmxbmxnineseven55 : 95 : 
+[[2, 8], [6, 2], [9, 3], [19, 3], [20, 5], [21, 1], [24, 5], [28, 7]] :	kpeightwothreezmdvm35onefiveseven : 87 : 
+[[0, 3], [5, 4], [18, 3], [19, 2]] :	threefourskjcsmhjr32 : 32 : 
+[[0, 1], [1, 5], [2, 4], [3, 9], [7, 8], [12, 1], [15, 9]] :	154nine8nineone9 : 19 : 
+[[0, 6], [3, 2], [6, 7], [19, 3]] :	sixtwo77nfgncfzhbcbthree : 63 : 
+[[8, 7]] :	dnxddftf7qxnxt : 77 : 
+[[0, 6], [3, 2], [17, 3], [18, 5]] :	six2qlkmkgsfgdnch35hfqpcbvk : 65 : 
+[[0, 1], [1, 4], [2, 5]] :	145 : 15 : 
+[[5, 8], [20, 9], [21, 7], [26, 1]] :	xtqpx8nlzqhmbfpjcqqz9sevenone : 81 : 
+[[5, 8], [25, 8], [31, 4]] :	kqspr8gbqfsvnttcfnfhjdncteightj4eight : 84 : 
+[[5, 5]] :	bhrmk5fxdtbqbrzv : 55 : 
+[[0, 8], [5, 2], [10, 2], [13, 3], [14, 5], [18, 7], [19, 9]] :	eight2prrttwo3five7nine : 89 : 
+[[0, 9], [4, 5], [14, 1], [28, 1]] :	ninefivenrldsh1smcpzvdgmtzhbone : 91 : 
+[[0, 4], [1, 2]] :	42dplrfkksn : 42 : 
+[[1, 6], [4, 2], [8, 5]] :	psixtwoz5 : 65 : 
+[[5, 7], [10, 9], [14, 9], [15, 5], [16, 8]] :	nvxmgsevennine95eight5 : 78 : 
+[[0, 5], [4, 2], [5, 1]] :	five2onebxjtkkkzddcxfbpg : 51 : 
+[[0, 8], [1, 7], [2, 9], [16, 5], [22, 6]] :	87ninebcsmzqjqhrfivevd6 : 86 : 
+[[0, 1], [1, 8], [18, 7]] :	1eightclgrldksdkzt7 : 17 : 
+[[0, 1], [1, 3], [2, 6]] :	136tgxrm : 16 : 
+[[10, 2], [13, 6], [14, 8], [19, 6], [22, 4], [26, 4]] :	smzcxqsspl2hc6eightsixfour4 : 24 : 
+[[0, 5], [1, 1], [13, 7], [14, 2]] :	51lpvxvzvjpdt72 : 52 : 
+[[0, 5], [12, 9], [16, 5], [20, 4], [24, 7]] :	5rflgvvkrqlsninefivefoursevenseven : 57 : 
+[[0, 5], [1, 8]] :	5eightssfq : 58 : 
+[[6, 4], [7, 6], [8, 3], [23, 2], [24, 8]] :	qrvlvn46threegvcsqnpbbq28mvtvpsmfch : 48 : 
+[[0, 7], [13, 7], [14, 3]] :	sevensevenfrk7threensxmfn : 73 : 
+[[0, 3], [1, 6], [2, 5], [6, 8], [11, 6], [14, 7], [19, 3], [24, 4], [28, 9]] :	36fiveeightsixseventhreefour9 : 39 : 
+[[3, 4], [7, 4], [8, 3]] :	lvxfour4three4q : 43 : 
+[[0, 6], [13, 2], [16, 3]] :	sixlnrbbcvzdztwo3tj : 63 : 
+[[0, 8], [25, 9], [29, 7]] :	eightclvcgtcrpmbstpeightmnine7 : 87 : 
+[[0, 2], [1, 5], [5, 4], [10, 6], [11, 7], [21, 3], [22, 9]] :	2five4five6sevenvhmhk3nine : 29 : 
+[[2, 1], [5, 4], [11, 6]] :	rjone4btcbrsix : 16 : 
+[[0, 6], [1, 2], [2, 1], [3, 5], [7, 1], [9, 8]] :	621fiveoneightpt : 68 : 
+[[3, 8], [4, 1], [5, 5], [6, 4], [15, 6]] :	hlv815fourtfvkr6 : 86 : 
+[[0, 2], [3, 4], [4, 6], [5, 5], [6, 7]] :	two4657 : 27 : 
+[[0, 1], [3, 1], [5, 9], [22, 6], [25, 3]] :	one1zninertmjxntmkdgrdsixthree : 13 : 
+[[0, 7], [1, 1], [4, 8], [5, 3], [24, 5]] :	7one83nqxqdppcsxmlrcdone5 : 75 : 
+[[10, 6], [11, 5], [15, 7], [20, 2], [23, 9]] :	dlctxttzvz6fiveseventwo96km : 69 : 
+[[0, 8]] :	8xfkfkbp : 88 : 
+[[0, 7], [1, 9]] :	79 : 79 : 
+[[0, 8], [5, 1], [6, 3]] :	eight1three : 83 : 
+[[0, 1], [7, 4], [17, 8]] :	11rrnrm4vfqjfkmfleights : 18 : 
+[[0, 9], [12, 7]] :	9xglzqljbqhlseven : 97 : 
+[[0, 8], [4, 2], [15, 8]] :	8lll2btggdnfsjteight : 88 : 
+[[2, 2], [4, 1], [16, 8], [26, 5], [27, 9]] :	ddtwonekgrhnsffd8rdlqjmzfv599 : 29 : 
+[[0, 2], [3, 2], [4, 6], [13, 7], [14, 3]] :	two2sixhdvgjz7three : 23 : 
+[[0, 7], [9, 1], [17, 4]] :	7flfpmnrl1mhcgzblfourbsvftjkgbg : 74 : 
+[[0, 5], [1, 7], [16, 9], [17, 9], [21, 1], [24, 3]] :	5sevenzstvcgdvk59nine1vn3 : 53 : 
+[[7, 3], [8, 2], [11, 6], [12, 2], [13, 6]] :	kpkdqrp3two62six : 36 : 
+[[0, 2], [3, 2], [8, 4], [12, 8]] :	two2nmpzfour8 : 28 : 
+[[1, 2], [2, 5], [6, 9], [10, 6], [11, 7]] :	b2fivenine67 : 27 : 
+[[4, 1], [10, 2], [13, 4], [14, 7]] :	ffgf1pbztdtwo47nzdxrcz : 17 : 
+[[0, 8], [1, 2], [4, 4]] :	8two4s : 84 : 
+[[2, 2], [4, 1], [7, 5], [8, 3]] :	tztwone5three : 23 : 
+[[0, 3], [11, 4]] :	3lzbzqkgkh3four : 34 : 
+[[0, 1], [1, 8], [2, 2], [4, 1]] :	18twonezps : 11 : 
+[[0, 5], [4, 4], [8, 4], [12, 7]] :	fivefour4rjnsevenslkqltcdpznmfprnbzbztfvnseven : 57 : 
+[[7, 6]] :	hmhlkcg6zp : 66 : 
+[[0, 3], [6, 1], [7, 6], [8, 4]] :	3zcrdv16four : 34 : 
+[[10, 4], [11, 1], [14, 9], [23, 2]] :	hnnlsknrjk4one9onezcfrx2cddnrbtq : 42 : 
+[[0, 4]] :	4xbkl : 44 : 
+[[0, 6]] :	6jdkxcvmx : 66 : 
+[[0, 4], [1, 4], [5, 1], [8, 5]] :	4four1hb5tgfrntttjszgdhdq : 45 : 
+[[8, 2], [11, 7], [12, 4], [22, 9]] :	vttlslpjtwo7fourqfzpbrninepr : 29 : 
+[[0, 7], [5, 9], [9, 5]] :	sevennine5f : 75 : 
+[[8, 7], [9, 3]] :	bcphcjvp7three : 73 : 
+[[0, 8], [2, 9], [3, 6], [4, 2], [5, 1], [6, 8]] :	8q9621eight : 88 : 
+[[0, 8], [5, 3]] :	88tth3 : 83 : 
+[[0, 7], [8, 6], [11, 9], [21, 7]] :	7gddrxzpsix9jxstksdpkseven : 77 : 
+[[0, 7], [5, 3], [8, 7], [9, 2], [12, 5], [14, 8]] :	seven3zc72np53eight : 78 : 
+[[8, 2], [9, 8], [10, 5], [11, 9]] :	txxrlgqm2859 : 29 : 
+[[0, 1], [1, 6], [4, 7]] :	1sixsevenjpqp : 17 : 
+[[0, 5], [4, 2], [5, 4], [6, 7]] :	five24seven : 57 : 
+[[0, 6], [9, 3], [23, 8]] :	6fqjcmngvthreeplxxtrklleight : 68 : 
+[[0, 8], [9, 6], [12, 4], [13, 3], [14, 9], [15, 2]] :	eightsfpxsix439two4two : 82 : 
+[[0, 2], [1, 7], [6, 9], [10, 1]] :	2sevennineone : 21 : 
+[[0, 9], [6, 8], [7, 4], [11, 9]] :	ninexh8four9pdzjpnx : 99 : 
+[[0, 4], [4, 9], [14, 1], [26, 5]] :	fourninecfzsrmonelcpdnsmhn5nvzp : 45 : 
+[[0, 1], [19, 4]] :	onecpvhfvxsmnffcxph4 : 14 : 
+[[6, 3], [11, 5], [12, 2], [34, 9]] :	hbljxvthree5twokxpbbmpnmhtmzbqmnlpnine : 39 : 
+[[0, 3], [11, 7], [16, 9], [27, 2], [30, 8]] :	threefddbhtseven9qsplgqjkgstwoeightbqchst9 : 38 : 
+[[0, 2], [3, 5], [4, 6], [7, 1], [8, 2]] :	two5six12 : 22 : 
+[[0, 9], [6, 9], [7, 6], [8, 2]] :	ninebp962 : 92 : 
+[[0, 1], [1, 2], [4, 2], [5, 8], [10, 6], [13, 1]] :	1two2eightsixoneightt : 11 : 
+[[0, 9], [4, 1], [7, 1], [15, 3], [20, 9]] :	nineone1oneninethree9 : 99 : 
+[[0, 7], [5, 1], [8, 1]] :	sevenone1 : 71 : 
+[[0, 5], [5, 1], [8, 4], [9, 3], [14, 2], [20, 4]] :	fivegone4three2threefour : 54 : 
+[[9, 2], [12, 3], [17, 1], [26, 5]] :	plbvtpgvdtwothree1kcnvxndf5 : 25 : 
+[[3, 4], [7, 8], [12, 2], [13, 9], [14, 4]] :	svkfoureight294 : 44 : 
+[[0, 5], [1, 9], [5, 1], [13, 2], [18, 7]] :	5nineonenhxfl2prgv7xj : 57 : 
+[[0, 9], [10, 9], [14, 7]] :	9kjzjtdmcsninesevensmdbsxh : 97 : 
+[[0, 3], [1, 2], [17, 5]] :	32bbcbggpsdvnjlnm5 : 35 : 
+[[14, 6], [20, 1], [32, 4]] :	hllsdcxhtqhfkzsixgjb1cnjxzghksllfour : 64 : 
+[[0, 6], [12, 6]] :	sixkqjkzfxnx6 : 66 : 
+[[0, 4], [4, 4], [9, 3], [14, 8]] :	4fpmfour4three8 : 48 : 
+[[7, 5], [8, 2], [9, 3], [10, 1], [13, 5]] :	gzbgcvf523onefivepqsqkqone : 55 : 
+[[0, 8], [1, 1], [5, 3]] :	8one83 : 83 : 
+[[0, 6], [9, 8], [24, 7]] :	sixbrcsix8fdhzvxcvchvlhx7ddpbltgxq : 67 : 
+[[0, 4], [1, 6], [30, 8]] :	4sixhfrdpshdsixlvptxfjcplscxzg8 : 48 : 
+[[0, 5], [9, 8], [14, 1], [17, 7]] :	fivebrxjceightone7 : 57 : 
+[[0, 2], [7, 1], [10, 5], [14, 4], [31, 2]] :	twojmbxonefivefourmsqbnzxsgxbbh2 : 22 : 
+[[0, 5], [4, 5], [11, 1], [12, 7]] :	five5lrzrsv17 : 57 : 
+[[5, 8], [21, 7], [26, 6], [32, 1]] :	rtsgveightljjrkhskhqkseven6seven1 : 81 : 
+[[0, 7], [1, 4], [7, 4], [11, 7], [16, 6]] :	74lcrchfoursevensix : 76 : 
+[[0, 4], [1, 9], [10, 1]] :	49tlnbghzm1 : 41 : 
+[[0, 3], [1, 6], [2, 9], [6, 8], [11, 2]] :	36nineeight2 : 32 : 
+[[0, 5], [12, 4], [20, 2], [23, 4], [24, 1]] :	fivecccctcftfourfivetwo41 : 51 : 
+[[0, 4], [4, 7], [24, 9]] :	foursevenfourmlrcjglthjd9 : 49 : 
+[[0, 9], [1, 4], [2, 9], [6, 2], [9, 6], [20, 1]] :	94ninetwosixvbqslbxlone : 91 : 
+[[4, 7], [5, 6]] :	qjjk76 : 76 : 
+[[0, 3], [1, 6], [5, 5], [6, 1], [13, 2]] :	3six35onesix52 : 32 : 
+[[0, 6], [1, 1], [2, 2], [10, 4], [14, 5], [18, 3]] :	612dfpgjlgfourfive3fourdmrn : 63 : 
+[[0, 9], [1, 1], [4, 2]] :	9one2kctccfct : 92 : 
+[[3, 1], [5, 8], [12, 5], [34, 2]] :	vbsoneightscfiverrvmsrxjcnbvpeight2onekkqhsjtx : 12 : 
+[[0, 7], [1, 4], [2, 2], [3, 5], [7, 8]] :	742fiveeightnvjjpx4eight : 78 : 
+[[0, 1], [1, 3], [2, 9], [3, 6], [12, 2], [13, 7]] :	139sixskbgfc2sevennmlsll : 17 : 
+[[0, 2], [1, 9], [9, 6], [16, 8]] :	2nineztlb6pxgqtreighteight2 : 28 : 
+[[0, 6], [3, 5], [4, 8], [15, 8], [20, 9]] :	six58bjjhsrxgrheight9 : 69 : 
+[[9, 4]] :	nrmncthgr4bggpj : 44 : 
+[[0, 1]] :	1pgjpxjdbhj : 11 : 
+[[0, 4], [4, 5], [10, 4], [11, 7], [12, 9]] :	four5tjqsv47ninetmpjmmpcgftjmqq : 49 : 
+[[0, 3], [10, 4], [27, 9], [33, 6]] :	threepnxphfourplcrpjfngjsgdninepv6fzghjjmrvn : 36 : 
+[[0, 7], [1, 5], [2, 6], [3, 1], [12, 3]] :	756onejrtbpl3 : 73 : 
+[[0, 6], [7, 8]] :	sixglcb8 : 68 : 
+[[7, 4], [8, 6], [12, 4]] :	jqcfpvq46xmffour6 : 44 : 
+[[0, 7], [13, 9], [14, 6], [15, 8]] :	sevenfbhqztmn96eight : 78 : 
+[[0, 2], [6, 6], [9, 8]] :	2fjlcxsix8d : 28 : 
+[[0, 8], [5, 9], [6, 4], [15, 9], [24, 5]] :	eight9fourvjjjpninepndvffivenine : 85 : 
+[[19, 5], [23, 6]] :	mctmpckkjfqmdhgcdng5sfk6bgbg : 56 : 
+[[0, 1], [3, 3], [8, 7], [23, 8], [31, 9], [35, 2]] :	onethreesevenrdgcqsldlv8jddcfncninetwo : 12 : 
+[[15, 8], [20, 6], [21, 7], [36, 7]] :	gmkkbtndjlnzhqfeight6sevenggjrlqkzqv7ngtkfdpjr : 87 : 
+[[0, 4], [22, 2]] :	4tjpqcjjvxndnhrfdllddptwo : 42 : 
+[[8, 7], [9, 1], [16, 6], [17, 9], [21, 6]] :	lzjzfshq71ndzmpf6ninesixxjgrvqtrp : 76 : 
+[[0, 7], [13, 3], [14, 8], [15, 9], [17, 7]] :	sevenhxtmvftb38937 : 77 : 
+[[22, 6], [30, 2]] :	gxnrvjvclckvfkksslzjgf6kvqgpjbtwo : 62 : 
+[[0, 1], [3, 9], [6, 7], [12, 2], [13, 8], [14, 3]] :	one9sg7jsvgx28threevsmpxtlrc : 13 : 
+[[0, 5], [4, 4]] :	five4vvvrrmfj : 54 : 
+[[0, 1], [11, 4], [12, 5], [13, 9], [17, 2], [18, 9]] :	1hkzflszztc45nine29 : 19 : 
+[[0, 3], [1, 6]] :	36qbhjdxjr : 36 : 
+[[17, 2], [34, 6], [45, 3], [50, 7]] :	glfmnmdqlfgxrzfsc2vcxmxcvjkrnltjpdsixgsrpgjnrthree7 : 27 : 
+[[12, 7]] :	jnbgtjcnbvsf7hhmb : 77 : 
+[[0, 3], [5, 9], [6, 8]] :	three9eightspggt : 38 : 
+[[0, 4], [2, 7], [4, 7]] :	4f77sevenkrsvzkrlr : 47 : 
+[[6, 8], [11, 7], [16, 6], [46, 5]] :	ztlrbheightseven6rcsflgpxnvfkrntbsevensbxjgvsb5 : 85 : 
+[[0, 6], [3, 7], [9, 7], [17, 1]] :	six7nfcsksevenmkxone : 61 : 
+[[1, 1], [3, 8], [8, 9], [12, 3], [18, 5], [26, 6]] :	zoneightnine3eight5cdgzqfq66one : 16 : 
+[[0, 8], [1, 3], [6, 4], [16, 6]] :	8threefourkkkhvc68four : 86 : 
+[[0, 4], [4, 3], [10, 9], [11, 8]] :	fourthreer9eight : 48 : 
+[[26, 2], [27, 6], [28, 8], [29, 8]] :	dxzxrjptfmttnppfskctvbngmf268eight2 : 28 : 
+[[0, 2], [1, 1], [4, 3]] :	2onethree : 23 : 
+[[1, 2], [3, 1], [6, 3], [7, 7], [15, 7], [16, 2]] :	rtwone3seventwo72 : 22 : 
+[[0, 8], [5, 9], [14, 9], [15, 6], [16, 7]] :	eightninegmfct96seven : 87 : 
+[[0, 4], [9, 7], [10, 3], [20, 8]] :	4rcjltsng7threebxcsneight : 48 : 
+[[0, 9], [4, 5], [5, 4], [21, 8]] :	nine54pghqbgrqjgzmjrgeightrzlbghr : 98 : 
+[[11, 5], [15, 8], [20, 6], [23, 3], [28, 4], [29, 3]] :	nvggfgkzvknfiveeightsixthree43 : 53 : 
+[[0, 4], [1, 4]] :	4fourjpzglr : 44 : 
+[[0, 8], [1, 3], [2, 7], [9, 9]] :	83sevenbn9seven9 : 89 : 
+[[17, 3], [18, 4]] :	mvgxgqvpbgmrcvdsn34 : 34 : 
+[[4, 9], [16, 8], [17, 7]] :	sfjlninejbckkxlf8seven : 97 : 
+[[0, 3], [5, 7], [6, 2], [19, 1]] :	three72threebsgtrtb1tmgjbngqxm : 31 : 
+[[4, 4]] :	jqlx44 : 44 : 
+[[0, 1], [1, 3]] :	1threexdftqfjcvl : 13 : 
+[[10, 7], [15, 8], [29, 5], [33, 1], [36, 4], [40, 8]] :	nnkjmmlqvdseveneightkqlmmzzrpfiveonefour8 : 78 : 
+[[0, 9], [12, 2], [14, 1]] :	9nqjzjjhhps9twonex : 91 : 
+[[8, 2], [11, 6]] :	lzqxtpvztwo6 : 26 : 
+[[0, 4], [1, 7], [2, 5], [6, 8], [11, 8], [20, 2]] :	47fiveeight8gnhcgldm2tlpsxfpsb : 42 : 
+[[0, 5], [1, 1], [4, 3], [5, 1], [6, 6], [7, 4]] :	5one316four : 54 : 
+[[0, 9], [30, 7], [31, 9], [35, 1]] :	9lzvbtlkzdgzcxrbtlthhqbdvklgkz7nine1 : 91 : 
+[[0, 3], [17, 7], [22, 2], [23, 1], [26, 7]] :	threehjxknjnthreeseven2one7 : 37 : 
+[[0, 3], [5, 9], [15, 1], [16, 3]] :	threeninehjbslk13 : 33 : 
+[[0, 6], [3, 8], [8, 1], [11, 6], [19, 7], [24, 3]] :	sixeightone6pvdkkbvseven3 : 63 : 
+[[9, 8], [10, 2], [16, 6]] :	gnlszqcmg8twotwo6 : 86 : 
+[[8, 2], [17, 1], [24, 8], [29, 3], [30, 6]] :	gxttbccg2khzzpkdtonezqsteight3six : 26 : 
+[[16, 9], [17, 2], [20, 4]] :	vtfjnxjjkmzppsjx9twofour : 94 : 
+[[0, 2], [13, 5]] :	twoplbfnmkgql5fpfpzndddt : 25 : 
+[[0, 2], [1, 3], [6, 8], [14, 5], [24, 4], [25, 1]] :	2threeeightjgkfivevcjlmc4onetl : 21 : 
+[[0, 2], [19, 1], [22, 6], [25, 1]] :	2bzngbghgkdhhgqpgqkonesix1 : 21 : 
+[[0, 2], [1, 5], [5, 9]] :	2fivenine22 : 29 : 
+[[7, 1]] :	lhpxstx1mhgpndxlnk : 11 : 
+[[0, 1], [3, 7], [4, 9], [8, 2], [11, 2], [12, 5], [16, 3]] :	one7ninetwo2fivethree : 13 : 
+[[0, 7], [5, 2], [11, 1], [14, 9], [18, 9]] :	seven2sevenonenine9 : 79 : 
+[[0, 1], [6, 8], [11, 8], [12, 1], [13, 9]] :	onezgpeight81ninekzgqsmmtrpqz : 19 : 
+[[0, 6], [1, 8], [2, 1]] :	681qchvmrdldjs : 61 : 
+[[8, 8], [13, 1], [25, 8]] :	nzlqbsvteight11nnnbhkdbvp8 : 88 : 
+[[0, 7], [15, 3]] :	sevenxgqxtjdjpq3 : 73 : 
+[[0, 8], [3, 1], [6, 2], [9, 8]] :	8ztonetwoeight : 88 : 
+[[0, 9], [5, 4]] :	9xkmjfourfz : 94 : 
+[[0, 8], [1, 3], [2, 4], [6, 6]] :	83four6 : 86 : 
+[[1, 6], [2, 9]] :	m69 : 69 : 
+[[0, 2], [3, 1], [7, 7]] :	two1blfseven1 : 27 : 
+[[15, 1], [18, 5]] :	jdmkrkzkjjsdkkdone5 : 15 : 
+[[0, 7], [1, 6], [4, 3]] :	7six3 : 73 : 
+[[0, 3], [1, 1], [4, 2], [5, 7], [6, 9], [10, 3], [19, 7]] :	3one27ninethreeninesevenqzfkst : 37 : 
+[[0, 6], [1, 9], [5, 7], [10, 9], [11, 8], [16, 3]] :	6nineseven9eight3 : 63 : 
+[[0, 1], [3, 8], [8, 2], [18, 5]] :	one8zfrvtwoshlgvbl5ljrftn : 15 : 
+[[0, 1], [3, 1], [5, 6], [6, 5]] :	one1165bjcpkpsjfxlnmz6 : 15 : 
+[[0, 7], [1, 2], [2, 8], [6, 2]] :	72eightwoh : 72 : 
+[[0, 7], [5, 1], [6, 1], [9, 9], [10, 4], [11, 8], [25, 8]] :	seven1one94eightsqzhnrfbx8z : 78 : 
+[[0, 6], [3, 8], [8, 2], [18, 4], [19, 6], [20, 2]] :	sixeight2frplhhsxn46two : 62 : 
+[[0, 7], [9, 8]] :	7gppcfcdl8 : 78 : 
+[[0, 9], [4, 9], [5, 4], [6, 8]] :	nine94eightkjxpmzvq : 98 : 
+[[3, 8], [16, 1], [19, 3]] :	nvf8sjqrncflgpdbone3 : 83 : 
+[[0, 6], [1, 8], [2, 4]] :	68fourlnc : 64 : 
+[[0, 2], [3, 5]] :	two5ppgttnk : 25 : 
+[[0, 9], [4, 2], [5, 8], [6, 6]] :	nine28sixzxnhjr : 96 : 
+[[0, 7], [4, 3], [5, 8]] :	7kdg38 : 78 : 
+[[0, 2], [4, 4], [10, 6], [13, 5]] :	twol4qmspdsixfiveskjsbrfsxxjpkqdtsmkgpbc : 25 : 
+[[0, 5], [4, 5], [11, 4], [22, 3], [27, 1], [32, 8]] :	five5nzlcdc45clclzrrkjthreeoneoneightsd : 58 : 
+[[11, 3], [14, 3], [28, 6]] :	cvmxgrvfddx3rdthreefdqhxlzzb6 : 36 : 
+[[0, 7], [12, 1], [13, 3], [23, 6], [26, 8]] :	sevenhzxklrz1threebzvgssix8fstqhzn : 78 : 
+[[3, 8], [4, 6], [6, 5]] :	tfv866fivetlfive : 85 : 
+[[19, 7], [20, 6], [23, 7]] :	knmzhbvhzfvrbkvsmnl7sixseven : 77 : 
+[[4, 9]] :	zmbq9 : 99 : 
+[[19, 7], [20, 8]] :	vqxqnzrpqvtdtmgndhs7eightnqpxcntfmjr : 78 : 
+[[0, 4], [7, 8], [12, 3], [14, 7]] :	4vzpsdreight337hgvq : 47 : 
+[[1, 1], [4, 4], [8, 8]] :	jone4ccn8 : 18 : 
+[[10, 4]] :	nftdkmtmcz4 : 44 : 
+[[2, 9], [6, 8], [17, 8], [22, 1]] :	nlnineeightmndkqz8nineonenrqm : 91 : 
+[[16, 3], [17, 5], [18, 8], [23, 3], [28, 7]] :	nrhdxfsqvxcbcghf35eightthreeseven5 : 37 : 
+54663
